@@ -1,0 +1,21 @@
+							<div class="row-fluid explanation">
+								<p>
+									The eddy correlation technique for benthic flux measurements was developed by <a href="team.php">Peter Berg</a> and the <a href="http://www.mpi-bremen.de/en/">Max Planck Institute for Marine Microbiology, Germany</a>.
+									The first proof of concept paper focusing on oxygen fluxes for different benthic environments was published in 2003 (Berg et al. 2003), and since then an increasing number of groups have adopted the approach.
+								</p>
+							</div>
+							<div class="row-fluid explanation">
+								<p>
+									The eddy correlation technique is more expensive and technically more challenging to apply than traditional flux methods, but it has several unique advantages.
+									These include that measurements can be made without disturbing the natural light and flow conditions, that the flux contributing area on the sediment surface covers many square-meters, and that flux estimates can be produced at a high temporal resolution, usually on the order of minutes.
+									In addition, the technique can be used in benthic environments where traditional enclosure methods are difficult to apply, including seagrass meadows, coral reefs, and highly permeable sediments.
+									For many benthic systems, the eddy correlation technique represents the closest we come today to measuring true in situ fluxes.
+								</p>
+							</div>
+
+							<div class="row-fluid explanation">
+								<p>
+									The eddy correlation technique has been used in the atmospheric boundary layer for many decades, and it is by far the most common approach for measuring fluxes between land and air.
+									A similar development may be seen for the aquatic environment as more experience is gained with the technique and more sensors are being developed.
+								</p>
+							</div>
