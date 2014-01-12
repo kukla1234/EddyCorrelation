@@ -38,8 +38,8 @@
 |
 */
 
-$route['default_controller'] = "eddy";
-$route['(:any)'] = 'eddy';
+$route['default_controller'] = "eddy/view";
+$route['(:any)'] = 'eddy/view/$1';
 $route['404_override'] = '';
 
 /* End of file routes.php */

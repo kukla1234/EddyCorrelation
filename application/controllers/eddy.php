@@ -18,15 +18,25 @@ class Eddy extends CI_Controller {
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
 	 
- public function index($page = "home")
-	{
+
+		
+	public function view($page = 'home') {
+		if (!file_exists('application/views/pages/' . $page . '.php')) {
+			// Whoops, we don't have a page for that!
+			show_404();
+		} else {
+
+		$data['title'] = ucfirst($page);
+		// Capitalize the first letter
+
 		$this->load->view('templates/header');
 		$this->load->view('templates/page-header');
 		$this->load->view('templates/navbar');
-		$this->load->view('pages'.$page);
+		$this->load->view('pages/'.$page);
 		$this->load->view('templates/footer');
 		$this->load->view('templates/scripts');
 		$this->load->view('templates/foot');
+		}	
 	}
 }
 
