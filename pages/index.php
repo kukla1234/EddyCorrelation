@@ -103,28 +103,6 @@ include "authenticate.php";
 						</div>
 					</div>
 
-					<?php /* 					<div class="row-fluid">
-	 <div class="span10 offset1">
-	 <div id="prettyslides" class="carousel slide"> -->
-	 <!--
-	 <ol class="carousel-indicators">
-	 <li data-target="#prettyslides" data-slide-to="0" class="active"></li>
-	 <li data-target="#prettyslides" data-slide-to="1" ></li>
-	 </ol> -->
-	 <div class="carousel-inner">
-	 <div class="item active">
-	 <img src="img/slides/tn_IMG_0670modified2.jpg" alt="IMG_0670">
-	 </div>
-	 <div class="item">
-	 <img src="img/slides/tn_IMG_0697modified3.jpg" alt="IMG_0697">
-	 </div>
-	 </div>
-	 <a class="left carousel-control" href="#prettyslides" data-slide="prev">&lsaquo;</a>
-	 <a class="right carousel-control" href="#prettyslides" data-slide="next">&rsaquo;</a>
-	 </div>
-	 </div>
-	 </div> */
-					?>
 				</div>
 				<!-- wrapper-content -->
 				<?php
