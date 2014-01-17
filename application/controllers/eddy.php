@@ -30,11 +30,7 @@ class Eddy extends CI_Controller {
 		// Capitalize the first letter
 
 		$this->load->view('templates/header');
-		$this->load->view('templates/page-header');
-		$this->load->view('templates/navbar');
 		$this->load->view('pages/'.$page);
-		$this->load->view('templates/footer');
-		$this->load->view('templates/scripts');
 		$this->load->view('templates/foot');
 		}	
 	}

@@ -3,7 +3,7 @@
 		<?php /* <a class="brand" href="#">Eddy Correlation Lab</a> */ ?>
 		<ul class="nav">
 			<li>
-				<a href="index.php"><b class="navtag">Home</b></a>
+				<a href="/"><b class="navtag">Home</b></a>
 			</li>
 			
 			<?php /*
@@ -32,12 +32,12 @@
 			*/ ?>
 			
 			<li>
-				<a href="principles.php"><b class="navtag">Basic Principles</b></a>
+				<a href="principles"><b class="navtag">Basic Principles</b></a>
 			</li>	
 			
 		
 			<li>
-				<a href="publications.php"><b class="navtag">Publications</b></a>
+				<a href="publications"><b class="navtag">Publications</b></a>
 			</li>
 
 			<?php /*
@@ -55,10 +55,10 @@
 			</li> */ ?>
 						
 			<li>
-				<a href="team.php"><b class="navtag">Team</b></a>
+				<a href="team"><b class="navtag">Team</b></a>
 			</li>
 			<li>
-				<a href="gallery.php"><b class="navtag">Gallery</b></a>
+				<a href="gallery"><b class="navtag">Gallery</b></a>
 			</li>
             <!-- 
 			<li>
@@ -66,7 +66,7 @@
 			</li>
             -->
 			<li>
-				<a href="weblinks.php"><b class="navtag">Web Links and Resources</b></a>
+				<a href="weblinks"><b class="navtag">Web Links and Resources</b></a>
 			</li>
 			<?php /*
 			<li class="dropdown" style="inline;">
@@ -93,14 +93,14 @@
     			<ul class="dropdown-menu">
 					<!-- <li class="divider"></li> -->
 					<li>
-						<a href="example1.php"><b class="navtag nav-inner">Gulf of Mexico, Florida (Raw Data)</b></a>
+						<a href="example1"><b class="navtag nav-inner">Gulf of Mexico, Florida (Raw Data)</b></a>
 					</li>
 					
 					<li>
-						<a href="example2.php"><b class="navtag nav-inner">Floriday Keys - Coral Reefs</b></a>
+						<a href="example2"><b class="navtag nav-inner">Floriday Keys - Coral Reefs</b></a>
 					</li>
 					<li>
-						<a href="example3.php"><b class="navtag nav-inner">Floriday Keys - Permeable Sediments</b></a>
+						<a href="example3"><b class="navtag nav-inner">Floriday Keys - Permeable Sediments</b></a>
 					</li>
 					
 					</li>
