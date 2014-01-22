@@ -39,7 +39,7 @@
 														 <b>Fourth panel:</b> Oxygen fluxes, one for each 15 min data segment, and light (PAR) measured over the reef. Positive fluxes represent a release.
 														 <br/><br/>					
 														Note the tight correlation between oxygen flux and light (Fourth panel), and also the magnitude of the fluxes that results from the efficient use of light by the phototrophs and the uneven complex reef surface that has a many-fold larger surface area than its horizontal projection.
-														The clear water over this subtropical reef allowed data of this rare high quality to be measured. For further details on the data, see <a target="_blank" href="/publication/Long%20et%20al%202013%20PLOS%20ONE.pdf"> Long et al. (2013) </a>.
+														The clear water over this subtropical reef allowed data of this rare high quality to be measured. For further details on the data, see <a target="_blank" href="/journals/Long%20et%20al%202013%20PLOS%20ONE.pdf"> Long et al. (2013) </a>.
 													</p>
 												</div>
 											</div>

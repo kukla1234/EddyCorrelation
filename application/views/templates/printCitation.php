@@ -4,9 +4,9 @@
 		if ($path) {
 			echo "<a target=\"_blank\" href=";
 			if($path == "modeling")
-				echo "publication/modeling/";
+				echo "journals/modeling/";
 			else if ($path == "eddy")
-				echo "publication/";
+				echo "journals/";
 			echo str_replace(" ","%20",$filename) . " >";
 		}
 		if ($path)

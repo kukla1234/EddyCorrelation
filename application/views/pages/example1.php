@@ -42,7 +42,7 @@
                                                     Note the clear day-night-day cycle (Fourth panel). The four last fluxes of extreme size were artificially induced by people wading upstream from the eddy correlation instrument.
                                                     Night time oxygen uptake averaged -368 ± 21 mmol m<sup>-2</sup> day<sup>-1</sup> (SE, n = 45) which is almost 4 times larger than the flux of -98 ± 21 mmol m<sup>-2</sup> day<sup>-1</sup> (SE, n = 5) measured concurrently in in situ chambers.
 													This difference was likely caused by extensive flushing of the permeable sediment by current flow, oscillating wave-generated flow, and oscillating pressure at the sediment surface. Existing chamber technology cannot fully reproduce these naturally occurring drivers of porewater exchange.
-													For further details on the data, see <a target="__blank" href="/publication/Berg%20and%20Huettel%202008%20Oceanography.pdf">Berg and Huettel (2008)</a> . The 16 Hz data (time, v<sub>x</sub>, v<sub>y</sub>, v<sub>z</sub>, O2) for this example can be downloaded here: <a href="data/BergData1.zip">BergData1</a>
+													For further details on the data, see <a target="__blank" href="/journals/Berg%20and%20Huettel%202008%20Oceanography.pdf">Berg and Huettel (2008)</a> . The 16 Hz data (time, v<sub>x</sub>, v<sub>y</sub>, v<sub>z</sub>, O2) for this example can be downloaded here: <a href="data/BergData1.zip">BergData1</a>
 													</p>
 												</div>
 											</div>
