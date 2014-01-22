@@ -19,7 +19,7 @@
 						<div class="span12 publications">
 							<div class="pub-unit row-fluid">
 								<h3>PROFILE Software</h3>
-								<p class="citation"><a target="_blank" href="publications/modeling/PROFILE.zip"><span class="pdf-tag">[.ZIP]</span> Download PROFILE</a></p>			
+								<p class="citation"><a target="_blank" href="publication/modeling/PROFILE.zip"><span class="pdf-tag">[.ZIP]</span> Download PROFILE</a></p>			
 								<hr/>
 							</div>
 

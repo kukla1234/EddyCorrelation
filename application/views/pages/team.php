@@ -29,7 +29,7 @@
 								From 2001 forward, I pioneered the eddy correlation technique in collaboration with the Max Planck Institute for Marine Microbiology, Germany. At first, this was a side project to my ongoing modeling activities, but given our first successes and the potential of the approach, it quickly became the main focus of my work. Today I work exclusively on the eddy correlation technique. As reflected in the <a href="publications.php"> publications from my lab group</a> this work is focusing on further developing the technique, and also on applying it to benthic environments where traditional flux approaches are hard to use, and where our knowledge on benthic exchange is thus limited.
 							</p>
 							<p>
-								A link to my diagenetic modeling work, including download options for papers and the profile interpretation software, PROFILE, is given <a href="modeling.php">here. </a>
+								A link to my diagenetic modeling work, including download options for papers and the profile interpretation software, PROFILE, is given <a href="modeling">here. </a>
 							</p>
 						</div>
 						<div class="span4 bio-pic" style="text-align:center">

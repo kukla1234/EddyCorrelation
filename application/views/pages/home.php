@@ -19,7 +19,7 @@
 									Welcome to the Eddy Correlation Research Lab at the University of Virginia. We work with the eddy correlation technique for underwater flux measurements in three main areas:
 									<ol>
 										<li>
-											In situ applications in <a href="gallery.php">various aquatic environments</a> to address research questions on carbon and nutrient cycling.
+											In situ applications in <a href="gallery">various aquatic environments</a> to address research questions on carbon and nutrient cycling.
 										</li>
 										<li>
 											Sensor development and flux calculation approaches to further advance the technique.
@@ -33,7 +33,7 @@
 							
 							<div class="row-fluid explanation">
 								<p>
-									The eddy correlation technique was developed by <a href="team.php">Peter Berg</a> and the <a href="http://www.mpi-bremen.de/en/">Max Planck Institute for Marine Microbiology, Germany</a>. The first proof of concept paper focusing on oxygen fluxes for different benthic environments was published in 2003 (Berg et al. 2003), and since then an increasing number of groups have adopted the approach.
+									The eddy correlation technique was developed by <a href="team">Peter Berg</a> and the <a href="http://www.mpi-bremen.de/en/">Max Planck Institute for Marine Microbiology, Germany</a>. The first proof of concept paper focusing on oxygen fluxes for different benthic environments was published in 2003 (Berg et al. 2003), and since then an increasing number of groups have adopted the approach.
 								</p>
 							</div> 
 							
@@ -52,7 +52,7 @@
 										Flux estimates are usually produced at high temporal resolution, typically on the order of minutes.
 									</li>
 									<li>
-										The technique can be applied in environments where traditional enclosure methods are difficult to use, including highly permeable sediments, seagrass meadows, coral and oyster reefs, and also sea-ice surfaces (see <a href="gallery.php">Gallery</a>).
+										The technique can be applied in environments where traditional enclosure methods are difficult to use, including highly permeable sediments, seagrass meadows, coral and oyster reefs, and also sea-ice surfaces (see <a href="gallery">Gallery</a>).
 									</li>
 								</ol>
 
