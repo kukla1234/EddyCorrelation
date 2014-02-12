@@ -26,7 +26,7 @@
 									<div id="slideshow" class="carousel slide" data-interval="false">
 										<div class="carousel-inner">
 											<div class="item active">
-												<img src="/img/data/PlotWebSite2.jpg" alt="data example 2">
+												<img src="/img/data/PlotWebSite2.png" alt="data example 2">
 												<div class="carousel-caption datacaption">
 													<p class="carouselcaption datacaption">
 														High-quality eddy correlation data through 24 hours measured over a 2 m deep coral reef in Florida Keys.

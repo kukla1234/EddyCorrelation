@@ -27,7 +27,7 @@
 									<div id="slideshow" class="carousel slide" data-interval="false">
 										<div class="carousel-inner">
 											<div class="item active">
-												<img src="/img/data/PlotWebSite3.jpg" alt="data example 3">
+												<img src="/img/data/PlotWebSite3.png" alt="data example 3">
 												<div class="carousel-caption datacaption">
 													<p class="carouselcaption datacaption">
 														High-quality eddy correlation data measured in a test deployment of a new robust proto-type oxygen sensor.

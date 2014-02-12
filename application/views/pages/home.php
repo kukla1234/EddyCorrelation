@@ -66,6 +66,18 @@
 									The technique has been used in the atmospheric boundary layer for many decades, and it is by far the most common approach for measuring fluxes between land and air. We hope to see a similar development for the aquatic environment as more experience is gained with the technique and more sensors are being developed.
 								</p>
 							</div> 
+							
+							<div class="row-fluid explanation">
+								<p>
+									This research is made possible by funding and support from the University of Virginia and the National Science Foundation.
+								</p>
+								<span class="span5">
+									<img src="img/support/uvastack.gif" alt="University of Virginia Logo">
+								</span>
+								<span class="span5">
+									<img src="img/support/nsf1.gif" alt="National Sciene Foundation Logo">
+								</span>
+							</div>
 
 						</div>
 						<div class="span5">

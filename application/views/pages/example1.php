@@ -25,7 +25,7 @@
 									<div id="slideshow" class="carousel slide" data-interval="false">
 										<div class="carousel-inner">
 											<div class="item active">
-												<img src="/img/data/PlotWebSite1.jpg" alt="data example 1">
+												<img src="/img/data/PlotWebSite1.png" alt="data example 1">
 												
 												<div class="carousel-caption datacaption">
 													<p class="carouselcaption datacaption">
