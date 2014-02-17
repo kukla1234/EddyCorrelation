@@ -32,7 +32,7 @@
 											</object>
 											<![endif]-->
 											<![if !IE]>
-											<object data="vid/pberg_anim_nosound.swf" width="700" height="575" type="application/x-shockwave-flash">
+											<object data="/berg/vid/pberg_anim_nosound.swf" width="700" height="575" type="application/x-shockwave-flash">
 												<param name="pluginurl" value="http://www.macromedia.com/go/getflashplayer" />
 												<param name="bgcolor" value="#ffffff" />
 												<param name="quality" value="high" />
@@ -95,37 +95,37 @@
 										</ol> -->
 										<div class="carousel-inner">
 											<div class="item active">
-												<img src="img/slides/EddySlides01.jpg" alt="slide01">
+												<img src="/berg/img/slides/EddySlides01.jpg" alt="slide01">
 												<div class="carousel-caption">
 													<p class="carouselcaption">Oxygen is consumed in the upper sediment layers.</p>
 												</div>
 											</div>
 											<div class="item">
-												<img src="img/slides/EddySlides02.jpg" alt="slide02">
+												<img src="/berg/img/slides/EddySlides02.jpg" alt="slide02">
 												<div class="carousel-caption">
 													<p class="carouselcaption">Turbulent eddy mixing brings oxygen down to the sediment surface.</p>
 												</div>
 											</div>
 											<div class="item">
-												<img src="img/slides/EddySlides03.jpg" alt="slide03">
+												<img src="/berg/img/slides/EddySlides03.jpg" alt="slide03">
 												<div class="carousel-caption">
 													<p class="carouselcaption">Real data (oxygen concentration and vertical velocity) measured through 1 min 10 cm above a sediment surface</p>
 												</div>
 											</div>
 											<div class="item">
-												<img src="img/slides/EddySlides04.jpg" alt="slide04">
+												<img src="/berg/img/slides/EddySlides04.jpg" alt="slide04">
 												<div class="carousel-caption">
 													<p class="carouselcaption">Means and smoothing added.</p>
 												</div>
 											</div>
 											<div class="item">
-												<img src="img/slides/EddySlides05.jpg" alt="slide05">
+												<img src="/berg/img/slides/EddySlides05.jpg" alt="slide05">
 												<div class="carousel-caption">
 													<p class="carouselcaption">Marked with yellow: Velocity pointing down and oxygen concentration is above average.</p>
 												</div>
 											</div>
 											<div class="item">
-												<img src="img/slides/EddySlides06.jpg" alt="slide06">
+												<img src="/berg/img/slides/EddySlides06.jpg" alt="slide06">
 												<div class="carousel-caption">
 													<p class="carouselcaption">Marked with green: Velocity pointing up and oxygen concentration is below average. <br/> This "yellow-green" correlation gives a net transport of oxygen down to the sediment where it is consumed.</p>
 												</div>

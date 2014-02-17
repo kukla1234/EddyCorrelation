@@ -26,16 +26,16 @@
 
 		 */
  ?>
-		<link href="/css/bootstrap-old.min.css" rel="stylesheet">
+		<link href="/berg/css/bootstrap-old.min.css" rel="stylesheet">
 		<!-- Boostrap css -->
 		<!--[if IE 9]>
 		<link href="/berg/css/bootstrap-nav-fix.css" rel="stylesheet">
 		<![endif]-->
 
-		<link href="/css/lightbox.css" rel="stylesheet">
+		<link href="/berg/css/lightbox.css" rel="stylesheet">
 		<!-- lightbox css -->
 
-		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/berg/css/style.css">
 
 		<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 		<!--[if lte IE 9]>

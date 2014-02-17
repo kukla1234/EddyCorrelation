@@ -7,5 +7,5 @@
 	<!-- JQuery UI -->
 	<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.1.1/js/bootstrap.min.js"></script>
 	<!-- Boostrap JS -->
-	<script src="/js/lightbox.js"></script>
+	<script src="/berg/js/lightbox.js"></script>
 	<!-- lightbox JS -->

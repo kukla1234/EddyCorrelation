@@ -1,6 +1,7 @@
+RewriteBase /berg/
 
 RewriteEngine on
 RewriteCond $1 !^(index\.php|img|js|css|journals|vid|data|robots\.txt)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /index.php/$1 [L,QSA]
+RewriteRule ^(.*)$ /berg/index.php [L,QSA]

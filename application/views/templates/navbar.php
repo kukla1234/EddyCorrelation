@@ -3,7 +3,7 @@
 		<?php /* <a class="brand" href="#">Eddy Correlation Lab</a> */ ?>
 		<ul class="nav">
 			<li>
-				<a href="/"><b class="navtag">Home</b></a>
+				<a href="/berg/"><b class="navtag">Home</b></a>
 			</li>
 			
 			<?php /*
@@ -32,12 +32,12 @@
 			*/ ?>
 			
 			<li>
-				<a href="principles"><b class="navtag">Basic Principles</b></a>
+				<a href="/berg/principles/"><b class="navtag">Basic Principles</b></a>
 			</li>	
 			
 		
 			<li>
-				<a href="publications"><b class="navtag">Publications</b></a>
+				<a href="/berg/publications"><b class="navtag">Publications</b></a>
 			</li>
 
 			<?php /*
@@ -55,10 +55,10 @@
 			</li> */ ?>
 						
 			<li>
-				<a href="team"><b class="navtag">Team</b></a>
+				<a href="/berg/team"><b class="navtag">Team</b></a>
 			</li>
 			<li>
-				<a href="gallery"><b class="navtag">Gallery</b></a>
+				<a href="/berg/gallery"><b class="navtag">Gallery</b></a>
 			</li>
             <!-- 
 			<li>
