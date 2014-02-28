@@ -1,7 +1,7 @@
 RewriteBase /berg/
 
 RewriteEngine on
-RewriteCond $1 !^(index\.php|img|js|css|journals|vid|data|robots\.txt)
+RewriteCond $1 !^(index\.php|text\.php|img|js|css|journals|vid|data|robots\.txt)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /berg/index.php [L,QSA]
+RewriteRule ^(.*)$ /berg/index.tmp.php [L,QSA]
