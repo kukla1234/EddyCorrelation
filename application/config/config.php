@@ -14,8 +14,8 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://faculty.virginia.edu/berg/';
-
+//$config['base_url']	= 'http://faculty.virginia.edu/berg/';
+$config['base_url'] = 'http://'.$_SERVER['SERVER_NAME'].'/berg/';
 /*
 |--------------------------------------------------------------------------
 | Index File
