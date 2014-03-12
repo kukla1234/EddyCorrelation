@@ -1,5 +1,5 @@
 <body>
-		
+		<?php $this->view("templates/tempbox"); ?>
 
 		<div id="wrapper" class="wrapper">
 			<div id="wrapper-inner" class="wrapper-inner">

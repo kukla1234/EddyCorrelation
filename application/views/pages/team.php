@@ -158,6 +158,27 @@
 							<div class="span8 bio-left">
 								<div class="bio-text blurb">
 									<p>
+										My research will focus primarily on the ecology of oyster reefs in the shallow lagoons of the 
+										VCR-LTER. I will use the eddy correlation technique to measure oyster metabolism in response 
+										to a variety of environmental and ecological factors. I hope to measure the success of current 
+										oyster restoration efforts as well as quantify important factors for future reef restoration.
+									</p>
+								</div>
+							</div>
+							<div class="span4 bio-right">
+								<h4>Martin Volaric</h4><span class="descriptor">MS Student</span>
+								<p>
+									<a href="img/people/Martin%20Volaric.jpg" rel="lightbox" target="_blank"><img src="img/people/Martin%Volaric-thumb.jpg" alt="Martin Volaric Profile"></a> 
+								</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="row-fluid bio">
+						<div class="span12 team-member bio-pic-sub">
+							<div class="span8 bio-left">
+								<div class="bio-text blurb">
+									<p>
 										I am a 4th Year undergraduate in Computer Science with interests in algorithms, cryptography, and web application development.
 									</p>
 								</div>
