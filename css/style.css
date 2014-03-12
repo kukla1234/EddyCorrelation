@@ -5,6 +5,13 @@ body {
 	/*background-image: url('../img/backgrounds/jquery-dark-tile-blue-overlay.png'); */
 }
 
+div.tempbox {
+	margin: 0 10%;
+	background-color: #FFFF7D;
+	color: #111;
+	box-shadow: 1px 1px 1px;
+}
+
 div.wrapper {
 	margin: 3% 6% 3% 6%;
 	padding-bottom: 2%;

@@ -40,10 +40,10 @@
 
 //print "route";
 
-$route['default_controller'] = "welcome";
-/*$route['default_controller'] = "eddy/view";
+//$route['default_controller'] = "welcome";
+$route['default_controller'] = "eddy/view";
 $route['(:any)'] = 'eddy/view/$1';
 $route['404_override'] = '';
-*/
+
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

@@ -4,4 +4,4 @@ RewriteEngine on
 RewriteCond $1 !^(index\.php|text\.php|img|js|css|journals|vid|data|robots\.txt)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /berg/index.tmp.php [L,QSA]
+RewriteRule ^(.*)$ /berg/index.php/$1 [L,QSA]
