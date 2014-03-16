@@ -168,7 +168,7 @@
 							<div class="span4 bio-right">
 								<h4>Martin Volaric</h4><span class="descriptor">MS Student</span>
 								<p>
-									<a href="img/people/Martin%20Volaric.jpg" rel="lightbox" target="_blank"><img src="img/people/Martin%Volaric-thumb.jpg" alt="Martin Volaric Profile"></a> 
+									<a href="img/people/Martin%20Volaric.jpg" rel="lightbox" target="_blank"><img src="img/people/Martin%20Volaric-thumb.jpg" alt="Martin Volaric Profile"></a> 
 								</p>
 							</div>
 						</div>
@@ -179,14 +179,17 @@
 							<div class="span8 bio-left">
 								<div class="bio-text blurb">
 									<p>
-										I am a 4th Year undergraduate in Computer Science with interests in algorithms, cryptography, and web application development.
+										Ben: I am a 4th Year undergraduate in Computer Science with interests in algorithms, cryptography, and web application development.
+									</p>
+									<p>	Elizabeth: I am a 2nd year undergraduate studying Chemical Engineering with interests in computer science and entreprenuership. 
 									</p>
 								</div>
 							</div>
 							<div class="span4 bio-right">
-								<h4>Ben Terner</h4> <span class="descriptor">Undergraduate, Webmaster</span>
+								<h4>Ben Terner & Elizabeth Kukla</h4> <span class="descriptor">Undergraduate, Webmasters</span>
 								<p>
 									<a href="img/people/BenTerner.jpg" rel="lightbox" target="_blank"><img src="img/people/BenTerner_thumb.jpg" alt="Ben Terner thumb"></a>
+									<a href="img/people/ElizabethKukla.jpg" rel="lightbox" target="_blank"><img src="img/people/ElizabethKukla_thumb.jpg" alt="Elizabeth Kukla thumb"></a>
 								</p>
 							</div>
 						</div>
