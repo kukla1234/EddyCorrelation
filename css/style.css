@@ -318,6 +318,10 @@ p.bio-text{
 	padding: 10px 4% 10px 4%;	
 }
 
+.explanation ul {
+	text-align: left;
+}
+
 .explanation ol {
 	text-align: left;
 	padding: 0 6%;
