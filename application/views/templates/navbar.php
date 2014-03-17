@@ -60,6 +60,9 @@
 			<li>
 				<a href="/berg/gallery"><b class="navtag">Gallery</b></a>
 			</li>
+			<li>
+				<a href="/berg/presentations"><b class="navtag">Presentations</b></a>
+			</li>
             <!-- 
 			<li>
 				<a href="modeling.php"><b class="navtag">Modeling and Sediment Biogeochemistry</b></a>
