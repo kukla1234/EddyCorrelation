@@ -166,7 +166,7 @@
 								</div>
 							</div>
 							<div class="span4 bio-right">
-								<h4>Martin Volaric</h4><span class="descriptor">MS Student</span>
+								<h4>Martin Volaric</h4><span class="descriptor">Ph.D Student</span>
 								<p>
 									<a href="img/people/Martin%20Volaric.jpg" rel="lightbox" target="_blank"><img src="img/people/Martin%20Volaric-thumb.jpg" alt="Martin Volaric Profile"></a> 
 								</p>
