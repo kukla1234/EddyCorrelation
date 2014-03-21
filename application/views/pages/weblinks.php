@@ -38,7 +38,8 @@
 							foreach(  array("http://www.unisense.com/eddy_correlation_system",
 											"http://www.rocklandscientific.com/Products/EddyCorrelation/tabid/120/Default.aspx",
 											"http://www.pme.com/HTML%20Docs/PMENortek.html",
-											"http://www.nortekusa.com/lib/technical-notes/tn-025-eddy-correlation-technique")
+											"http://www.nortek-as.com/en/products/velocimeters/vector",
+											"http://www.nortek-as.com/en/news/flux-measurements-by-eddy-correlation-in-benthic-environments-using-the-nortek-vector")
 										as $link){
 											echo '<li>'.weblink($link).'</li>';
 									}
