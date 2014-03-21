@@ -8,39 +8,49 @@
 
 <url>
   <loc>http://eddycorrelation.evsc.virginia.edu/</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+  
 </url>
 <url>
   <loc>http://eddycorrelation.evsc.virginia.edu/principles</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
 </url>
 <url>
   <loc>http://eddycorrelation.evsc.virginia.edu/publications</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
 </url>
 <url>
   <loc>http://eddycorrelation.evsc.virginia.edu/team</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.3</priority>
 </url>
 <url>
   <loc>http://eddycorrelation.evsc.virginia.edu/gallery</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
 </url>
 <url>
   <loc>http://eddycorrelation.evsc.virginia.edu/weblinks</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
 </url>
 <url>
   <loc>http://eddycorrelation.evsc.virginia.edu/example1</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
 </url>
 <url>
   <loc>http://eddycorrelation.evsc.virginia.edu/example2</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
 </url>
 <url>
   <loc>http://eddycorrelation.evsc.virginia.edu/example3</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
 </url>
 <url>
   <loc>http://eddycorrelation.evsc.virginia.edu/journals/Reidenbach%20et%20al%202013%20L&amp;O%20FE.pdf</loc>
