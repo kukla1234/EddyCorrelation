@@ -3,267 +3,379 @@
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<!--modified by Elizabeth Kukla-->
 
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://faculty.virginia.edu/berg/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://faculty.virginia.edu/berg/principles/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://faculty.virginia.edu/berg/publications</loc>
+  <changefreq>monthly</changefreq>
   <priority>1.0</priority>
-  
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/principles</loc>
+  <loc>http://faculty.virginia.edu/berg/team</loc>
   <changefreq>monthly</changefreq>
-  <priority>0.5</priority>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/publications</loc>
+  <loc>http://faculty.virginia.edu/berg/gallery</loc>
   <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/team</loc>
+	<loc>http://faculty.virginia.edu/berg/img/*</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.80<priority>
+	<image:image>
+    	   <image:loc>http://faculty.virginia.edu/berg/img/*</image:loc> 
+  	</image:image>
+<url>
+  <loc>http://faculty.virginia.edu/berg/presentations</loc>
   <changefreq>monthly</changefreq>
-  <priority>0.3</priority>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/gallery</loc>
+  <loc>http://faculty.virginia.edu/berg/weblinks</loc>
   <changefreq>monthly</changefreq>
-  <priority>0.5</priority>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/weblinks</loc>
+  <loc>http://faculty.virginia.edu/berg/example1</loc>
   <changefreq>monthly</changefreq>
-  <priority>0.5</priority>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/example1</loc>
+  <loc>http://faculty.virginia.edu/berg/example2</loc>
   <changefreq>monthly</changefreq>
-  <priority>0.5</priority>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/example2</loc>
+  <loc>http://faculty.virginia.edu/berg/example3</loc>
   <changefreq>monthly</changefreq>
-  <priority>0.5</priority>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/example3</loc>
+  <loc>http://faculty.virginia.edu/berg/principles/weblinks</loc>
   <changefreq>monthly</changefreq>
-  <priority>0.5</priority>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Reidenbach%20et%20al%202013%20L&amp;O%20FE.pdf</loc>
-  <lastmod>2014-01-25T18:07:02+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/principles/example1</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Rheuban%20and%20Berg%202013%20L&amp;OM.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/principles/example2</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Berg%20et%20al%202013%20L&amp;O.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/principles/example3</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Long%20et%20al%202013%20PLOS%20ONE.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Reidenbach%20et%20al%202013%20L&amp;O%20FE.pdf</loc>
+  <lastmod>2014-02-25T21:56:38+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Chipman%20et%20al%202012%20L&amp;OM.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Rheuban%20and%20Berg%202013%20L&amp;OM.pdf</loc>
+  <lastmod>2014-02-25T21:56:39+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Long%20et%20al%202012%20BG.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Berg%20et%20al%202013%20L&amp;O.pdf</loc>
+  <lastmod>2014-02-25T21:56:30+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Reimers%20et%20al%202012%20JGR.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Long%20et%20al%202013%20PLOS%20ONE.pdf</loc>
+  <lastmod>2014-02-25T21:56:36+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/McGinnis%20et%20al%202011%20L&amp;OM.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Chipman%20et%20al%202012%20L&amp;OM.pdf</loc>
+  <lastmod>2014-02-25T21:56:30+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Hume%20et%20al%202011%20L&amp;O.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Long%20et%20al%202012%20BG.pdf</loc>
+  <lastmod>2014-02-25T21:56:35+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Glud%20et%20al%202010%20MEPS.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Reimers%20et%20al%202012%20JGR.pdf</loc>
+  <lastmod>2014-02-25T21:56:38+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Lorrai%20et%20al%202010%20JAOT.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/McGinnis%20et%20al%202011%20L&amp;OM.pdf</loc>
+  <lastmod>2014-02-25T21:56:37+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Berg%20et%20al%202009%20L&amp;OM.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Hume%20et%20al%202011%20L&amp;O.pdf</loc>
+  <lastmod>2014-02-25T21:56:32+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Berg%20and%20Huettel%202008%20Oceanography.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Glud%20et%20al%202010%20MEPS.pdf</loc>
+  <lastmod>2014-02-25T21:56:32+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/McGinnis%20et%20al%202008%20GRL.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Lorrai%20et%20al%202010%20JAOT.pdf</loc>
+  <lastmod>2014-02-25T21:56:36+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Crusius%20et%20al%202008%20MC.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Berg%20et%20al%202009%20L&amp;OM.pdf</loc>
+  <lastmod>2014-02-25T21:56:28+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Berg%20et%20al%202007%20L&amp;O.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Berg%20and%20Huettel%202008%20Oceanography.pdf</loc>
+  <lastmod>2014-02-25T21:56:27+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/Berg%20et%20al%202003%20MEPS.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/McGinnis%20et%20al%202008%20GRL.pdf</loc>
+  <lastmod>2014-02-25T21:56:36+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/modeling</loc>
+  <loc>http://faculty.virginia.edu/berg/journals/Crusius%20et%20al%202008%20MC.pdf</loc>
+  <lastmod>2014-02-25T21:56:31+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Howarth%20et%20al%202013%20Biogeoche.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Berg%20et%20al%202007%20L&amp;O.pdf</loc>
+  <lastmod>2014-02-25T21:56:28+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Long%20et%20al%202012%20L&amp;OM.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/Berg%20et%20al%202003%20MEPS.pdf</loc>
+  <lastmod>2014-02-25T21:56:27+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Koopmans%20and%20Berg%202011%20WRR.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/modeling</loc>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Glud%20et%20al%20L&amp;O%202009.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/slides/Instrument%20animation.ppt</loc>
+  <lastmod>2014-03-17T02:06:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Liao%20et%20al%202009%20L&amp;OM.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/slides/Instrument%20illustration.ppt</loc>
+  <lastmod>2014-03-17T02:06:19+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Long%20et%20al%202008%20L&amp;O.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/slides/Visible%20eddy%20correlation%20in%20data%201.ppt</loc>
+  <lastmod>2014-03-17T02:06:24+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Berg%20et%20al%202007%20JMR.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/slides/Visible%20eddy%20correlation%20in%20data%202.ppt</loc>
+  <lastmod>2014-03-17T02:06:30+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Reynolds%20et%20al%202007%20Estuaries.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/slides/Eddy%20correlation%20footprint.ppt</loc>
+  <lastmod>2014-03-17T02:06:09+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Glud%20et%20al%202007%20L&amp;O.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/slides/Transport%20by%20turbulent%20eddy.ppt</loc>
+  <lastmod>2014-03-17T02:06:21+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Hoffmann%20et%20al%202006%20Hydrology.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Howarth%20et%20al%202013%20Biogeoche.pdf</loc>
+  <lastmod>2014-02-25T21:56:45+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Ray%20et%20al%202006%20MBE.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Long%20et%20al%202012%20L&amp;OM.pdf</loc>
+  <lastmod>2014-02-25T21:56:48+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Meile%20et%20al%202005%20JMR.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Koopmans%20and%20Berg%202011%20WRR.pdf</loc>
+  <lastmod>2014-02-25T21:56:46+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Elberling%20et%20al%202004%20AAAR.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Glud%20et%20al%20L&amp;O%202009.pdf</loc>
+  <lastmod>2014-02-25T21:56:44+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Berg%20et%20al%202003%20AJS.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Liao%20et%20al%202009%20L&amp;OM.pdf</loc>
+  <lastmod>2014-02-25T21:56:48+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Habicht%20et%20al%202002%20Science.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Long%20et%20al%202008%20L&amp;O.pdf</loc>
+  <lastmod>2014-02-25T21:56:48+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/McGlathery%20et%20al%202001%20Biogeochem.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%20et%20al%202007%20JMR.pdf</loc>
+  <lastmod>2014-02-25T21:56:42+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Berg%20et%20al%202001%20AME.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Reynolds%20et%20al%202007%20Estuaries.pdf</loc>
+  <lastmod>2014-02-25T21:56:50+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Berg%20and%20McGlathery%202001%20L&amp;O.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Glud%20et%20al%202007%20L&amp;O.pdf</loc>
+  <lastmod>2014-02-25T21:56:43+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Hoffmann%20et%20al%202000%20JEQ.PDF</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Hoffmann%20et%20al%202006%20Hydrology.pdf</loc>
+  <lastmod>2014-02-25T21:56:45+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Fossing%20et%20al%202000%20GCA.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Ray%20et%20al%202006%20MBE.pdf</loc>
+  <lastmod>2014-02-25T21:56:49+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Rysgaard%20et%20al%202000%20AME.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Meile%20et%20al%202005%20JMR.pdf</loc>
+  <lastmod>2014-02-25T21:56:49+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Berg%201999%20AWR.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Elberling%20et%20al%202004%20AAAR.pdf</loc>
+  <lastmod>2014-02-25T21:56:42+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Rysgaard%20et%20al%201998%20MEPS.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%20et%20al%202003%20AJS.pdf</loc>
+  <lastmod>2014-02-25T21:56:41+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Berg%20et%20al%201998%20L&amp;O.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Habicht%20et%20al%202002%20Science.pdf</loc>
+  <lastmod>2014-02-25T21:56:44+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://eddycorrelation.evsc.virginia.edu/journals/modeling/Rysgaard%20and%20Berg%201996%20AM.pdf</loc>
-  <lastmod>2014-01-25T17:10:54+00:00</lastmod>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/McGlathery%20et%20al%202001%20Biogeochem.pdf</loc>
+  <lastmod>2014-02-25T21:56:48+00:00</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%20et%20al%202001%20AME.pdf</loc>
+  <lastmod>2014-02-25T21:56:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%20and%20McGlathery%202001%20L&amp;O.pdf</loc>
+  <lastmod>2014-02-25T21:56:39+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Hoffmann%20et%20al%202000%20JEQ.PDF</loc>
+  <lastmod>2014-02-25T21:56:44+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Fossing%20et%20al%202000%20GCA.pdf</loc>
+  <lastmod>2014-02-25T21:56:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Rysgaard%20et%20al%202000%20AME.pdf</loc>
+  <lastmod>2014-02-25T21:56:51+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%201999%20AWR.pdf</loc>
+  <lastmod>2014-02-25T21:56:39+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Rysgaard%20et%20al%201998%20MEPS.pdf</loc>
+  <lastmod>2014-02-25T21:56:51+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%20et%20al%201998%20L&amp;O.pdf</loc>
+  <lastmod>2014-02-25T21:56:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://faculty.virginia.edu/berg/journals/modeling/Rysgaard%20and%20Berg%201996%20AM.pdf</loc>
+  <lastmod>2014-02-25T21:56:50+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
 </url>
 </urlset>
