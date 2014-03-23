@@ -52,4 +52,8 @@
 		</style>
 
 		<![endif]-->
-	</head>
+		
+		<?php
+			$this->view('templates/analyticstracking.php');
+		?>
+		</head>
