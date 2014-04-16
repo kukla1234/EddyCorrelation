@@ -3,10 +3,8 @@
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-<!--modified by Elizabeth Kukla-->
 
 <url>
   <loc>http://faculty.virginia.edu/berg/</loc>
@@ -21,7 +19,7 @@
 <url>
   <loc>http://faculty.virginia.edu/berg/publications</loc>
   <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://faculty.virginia.edu/berg/team</loc>
@@ -33,13 +31,6 @@
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
-<url>
-	<loc>http://faculty.virginia.edu/berg/img/*</loc>
-	<changefreq>monthly</changefreq>
-	<priority>0.80<priority>
-	<image:image>
-    	   <image:loc>http://faculty.virginia.edu/berg/img/*</image:loc> 
-  	</image:image>
 <url>
   <loc>http://faculty.virginia.edu/berg/presentations</loc>
   <changefreq>monthly</changefreq>
@@ -188,11 +179,6 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://faculty.virginia.edu/berg/modeling</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>http://faculty.virginia.edu/berg/slides/Instrument%20animation.ppt</loc>
   <lastmod>2014-03-17T02:06:15+00:00</lastmod>
   <changefreq>monthly</changefreq>
@@ -227,155 +213,5 @@
   <lastmod>2014-03-17T02:06:21+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Howarth%20et%20al%202013%20Biogeoche.pdf</loc>
-  <lastmod>2014-02-25T21:56:45+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Long%20et%20al%202012%20L&amp;OM.pdf</loc>
-  <lastmod>2014-02-25T21:56:48+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Koopmans%20and%20Berg%202011%20WRR.pdf</loc>
-  <lastmod>2014-02-25T21:56:46+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Glud%20et%20al%20L&amp;O%202009.pdf</loc>
-  <lastmod>2014-02-25T21:56:44+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Liao%20et%20al%202009%20L&amp;OM.pdf</loc>
-  <lastmod>2014-02-25T21:56:48+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Long%20et%20al%202008%20L&amp;O.pdf</loc>
-  <lastmod>2014-02-25T21:56:48+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%20et%20al%202007%20JMR.pdf</loc>
-  <lastmod>2014-02-25T21:56:42+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Reynolds%20et%20al%202007%20Estuaries.pdf</loc>
-  <lastmod>2014-02-25T21:56:50+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Glud%20et%20al%202007%20L&amp;O.pdf</loc>
-  <lastmod>2014-02-25T21:56:43+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Hoffmann%20et%20al%202006%20Hydrology.pdf</loc>
-  <lastmod>2014-02-25T21:56:45+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Ray%20et%20al%202006%20MBE.pdf</loc>
-  <lastmod>2014-02-25T21:56:49+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Meile%20et%20al%202005%20JMR.pdf</loc>
-  <lastmod>2014-02-25T21:56:49+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Elberling%20et%20al%202004%20AAAR.pdf</loc>
-  <lastmod>2014-02-25T21:56:42+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%20et%20al%202003%20AJS.pdf</loc>
-  <lastmod>2014-02-25T21:56:41+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Habicht%20et%20al%202002%20Science.pdf</loc>
-  <lastmod>2014-02-25T21:56:44+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/McGlathery%20et%20al%202001%20Biogeochem.pdf</loc>
-  <lastmod>2014-02-25T21:56:48+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%20et%20al%202001%20AME.pdf</loc>
-  <lastmod>2014-02-25T21:56:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%20and%20McGlathery%202001%20L&amp;O.pdf</loc>
-  <lastmod>2014-02-25T21:56:39+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Hoffmann%20et%20al%202000%20JEQ.PDF</loc>
-  <lastmod>2014-02-25T21:56:44+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Fossing%20et%20al%202000%20GCA.pdf</loc>
-  <lastmod>2014-02-25T21:56:42+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Rysgaard%20et%20al%202000%20AME.pdf</loc>
-  <lastmod>2014-02-25T21:56:51+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%201999%20AWR.pdf</loc>
-  <lastmod>2014-02-25T21:56:39+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Rysgaard%20et%20al%201998%20MEPS.pdf</loc>
-  <lastmod>2014-02-25T21:56:51+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Berg%20et%20al%201998%20L&amp;O.pdf</loc>
-  <lastmod>2014-02-25T21:56:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://faculty.virginia.edu/berg/journals/modeling/Rysgaard%20and%20Berg%201996%20AM.pdf</loc>
-  <lastmod>2014-02-25T21:56:50+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
 </url>
 </urlset>
