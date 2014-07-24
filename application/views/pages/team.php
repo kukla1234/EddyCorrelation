@@ -181,7 +181,7 @@
 									<p>
 										Ben: I am a 4th Year undergraduate in Computer Science with interests in algorithms, cryptography, and web application development.
 									</p>
-									<p>	Elizabeth: I am a 2nd year undergraduate studying Chemical Engineering with interests in computer science and entreprenuership. 
+									<p>	Elizabeth: I am a 2nd year undergraduate studying Computer Science Engineering with interests in development and entrepreneurship. 
 									</p>
 								</div>
 							</div>
