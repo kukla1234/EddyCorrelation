@@ -61,7 +61,7 @@
                                         <div id="slideshow" class="carousel slide" data-interval="false">
                                             <div class="carousel-inner">
                                                 <div class="item active">
-                                                    <img src="img/data/PlotWebSite4.tif" alt="data example 4">
+                                                    <img src="img/data/PlotWebSite4.png" alt="data example 4">
                                                     <div class="carousel-caption datacaption">
                                                         <p class="carouselcaption datacaption">
                                                             High-quality eddy correlation data through 26 hours measured over a seagrass meadow in the Virginia coastal bays. Raw data were recorded in 15 min data segments that included a short pause at the end. <a href="gallery#easternshoreseagrassbeds">Gallery</a>
