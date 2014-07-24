@@ -20,10 +20,14 @@
 						<?php
 						$this->view("templates/printCitation");
 
-						printCitation("<b>Koopmans, D.</b>, <b>P. Berg</b> (Submitted). Spatial variability in oxygen flux in a coastal stream: An application of the eddy correlation technique. <b>Ecosystems.</b>");
-						printCitation("<b>Long, M.H.</b>, <b>P. Berg</b>, J.C. Zieman, K.J. McGlathery. (Submitted). Tropical seagrass ecosystem metabolism using the eddy correlation technique. <b>Marine Ecology Progress Series.</b>");
-						printCitation("<b>Rheuban, J.,</b> <b>P. Berg,</b> K.J. McGlathery. (Submitted). Seasonal oxygen metabolism in restored <em>Zostera marina L.</em> (eelgrass) meadows measured by eddy correlation. <b>Marine Ecology Progress Series.</b>");
-						printCitation("<b>Rheuban, J.,</b> <b>P. Berg,</b> K.. McGlathery. (Submitted).  Ecosystem metabolism along a colonization gradient of eelgrass (<em>Zostera marina L.</em>) measured by eddy correlation. <b>Limnology and Oceanography.</b>");
+						//<!--printCitation("<b>Koopmans, D.</b>, <b>P. Berg</b> (Submitted). Spatial variability in oxygen flux in a coastal stream: An application of the eddy correlation technique. <b>Ecosystems.</b>");-->
+						//printCitation("<b>Long, M.H.</b>, <b>P. Berg</b>, J.C. Zieman, K.J. McGlathery. (Submitted). Tropical seagrass ecosystem metabolism using the eddy correlation technique. <b>Marine Ecology Progress Series.</b>");
+                        printCitation("<b>Koopmans,D.</b>, <b>P. Berg</b> (Submitted). Stream oxygen flux and metabolism determined with the open water and eddy correlation techniques. Limnology and Oceanography: <b>Fluids and the Environments</b>.");
+                        printCitation("<b>Long, M.H.</b>, <b>P. Berg</b> K. J. McGlathery, J. C. Zieman. (Submitted). Sub-Tropical Seagrass Ecosystem Metabolism Measured by Eddy Correlation. <b>Marine Ecology Progress Series</b>.");
+						//printCitation("<b>Rheuban, J.,</b> <b>P. Berg,</b> K.J. McGlathery. (Submitted). Seasonal oxygen metabolism in restored <em>Zostera marina L.</em> (eelgrass) meadows measured by eddy correlation. <b>Marine Ecology Progress Series.</b>");
+                        printCitation("<b>Rheuban, J.,</b> <b>P. Berg,</b> K.J. McGlathery. (2014). <b>Feature Article:</b> Seasonal oxygen metabolism in restored Zostera marina L. (eelgrass) meadows measured by eddy correlation. <b>Marine Ecology Progress Series</b>. 507, 1–13.","eddy","Rheuban%20et%20al%202014%20MEPS.pdf");
+						//printCitation("<b>Rheuban, J.,</b> <b>P. Berg,</b> K.. McGlathery. (Submitted).  Ecosystem metabolism along a colonization gradient of eelgrass (<em>Zostera marina L.</em>) measured by eddy correlation. <b>Limnology and Oceanography.</b>");
+                        printCitation("<b>Rheuban, J.,</b> <b>P. Berg,</b> K.. McGlathery. (2014).  Ecosystem metabolism along a colonization gradient of eelgrass (Zostera marina L.) measured by eddy correlation. <b>Limnology and Oceanography</b>. 59, 1376–1387.","eddy","Rheuban%20et%20al%202014%20L&O.pdf");
 						printCitation("Reidenbach, M. A., <b>P. Berg</b>, E. R. Whitman, J. C. R. Hansen, <b>A. C. Hume</b>. (2013). Hydrodynamics of intertidal oyster reefs: the influence of boundary layer flow processes on sediment and oxygen uptake. <b>Limnology and Oceanography: Fluids and Environment.</b> 3: 225–239 ","eddy",
 						"Reidenbach%20et%20al%202013%20L&amp;O%20FE.pdf");
 						printCitation("<b>Rheuban, J., P. Berg.</b> (2013). The effect of benthic surface heterogeneity on eddy correlation flux measurements. <b>Limnology and Oceanography: Methods.</b> 11:351-359 ", "eddy", "Rheuban%20and%20Berg%202013%20L&amp;OM.pdf");
