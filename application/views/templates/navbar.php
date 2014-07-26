@@ -84,9 +84,11 @@
     			</ul>
   			</li> */ ?>
 			
-			<li id="software" onclick="(function() { alert('coming soon!'); })() ">
+            <!-- Commented out until we actually get the software on the site
+-->
+            <!--<li id="software" onclick="(function() { alert('coming soon!'); })() ">
 				<a href="#"><b class="navtag">Software</b></a>
-			</li>
+			</li>-->
 			
 			<li class="dropdown" style="inline;">
     			<a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -104,6 +106,9 @@
 					</li>
 					<li>
 						<a href="example3"><b class="navtag nav-inner">Floriday Keys - Permeable Sediments</b></a>
+					</li>
+                    <li>
+						<a href="example4"><b class="navtag nav-inner">Eastern Shores, Virginia - Seagrass Beds</b></a>
 					</li>
 					
 					</li>
