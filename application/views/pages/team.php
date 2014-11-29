@@ -179,9 +179,9 @@
 							<div class="span8 bio-left">
 								<div class="bio-text blurb">
 									<p>
-										Ben: I am a 4th Year undergraduate in Computer Science with interests in algorithms, cryptography, and web application development.
+										Ben: I am a 1st year Master's student in Computer Science with interests in algorithms, cryptography, and web application development.
 									</p>
-									<p>	Elizabeth: I am a 2nd year undergraduate studying Computer Science Engineering with interests in development and entrepreneurship. 
+									<p>	Elizabeth: I am a 3rd year undergraduate studying Computer Science with interests in API development and entrepreneurship. 
 									</p>
 								</div>
 							</div>
