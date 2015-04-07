@@ -1,6 +1,6 @@
 <div class="navbar navbar-inverse">
 	<div class="navbar-inner">
-		<?php /* <a class="brand" href="#">Eddy Correlation Lab</a> */ ?>
+		<?php /* <a class="brand" href="#">Eddy Covariance Lab</a> */ ?>
 		<ul class="nav">
 			<li>
 				<a href="/berg/"><b class="navtag">Home</b></a>
@@ -46,7 +46,7 @@
 				<ul class="dropdown-menu">
 					<!-- <li class="divider"></li> -->
 					<li>
-						<a href="publications.php"><b class="navtag nav-inner">Eddy Correlation</b></a>
+						<a href="publications.php"><b class="navtag nav-inner">Eddy Covariance</b></a>
 					</li>
 					<li>	
 						<a href="modeling.php"><b class="navtag nav-inner">Publications on modeling and sediment biogeochemistry</b></a>

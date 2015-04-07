@@ -16,7 +16,7 @@
 
 				<div class="row-fluid">
 					<div class="span12 publications">
-						<h3>Publications on Eddy Correlation</h3>
+						<h3>Publications on Eddy Covariance</h3>
 						<?php
 						$this->view("templates/printCitation");
 

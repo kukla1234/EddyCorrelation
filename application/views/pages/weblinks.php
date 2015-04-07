@@ -18,7 +18,7 @@
 					<div class="row-fluid">
 						<div class="span6 offset3">
 					<h2 style="text-align:center;">Useful Web Links</h2>
-					<p>You may find other useful web pages about the eddy correlation technique below.</p>
+					<p>You may find other useful web pages about the eddy covariance technique below.</p>
 					<p>Research sites:</p>
 					<ul>
 						<?php

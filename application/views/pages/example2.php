@@ -29,7 +29,7 @@
 												<img src="img/data/PlotWebSite2.png" alt="data example 2">
 												<div class="carousel-caption datacaption">
 													<p class="carouselcaption datacaption">
-														High-quality eddy correlation data through 24 hours measured over a 2 m deep coral reef in Florida Keys.
+														High-quality eddy covariance data through 24 hours measured over a 2 m deep coral reef in Florida Keys.
 														Raw data were recorded in 15 min data segments that included a short pause at the end. 
 														<a href="/berg/gallery#floridakeys">Gallery</a>
 														<br/><br/>

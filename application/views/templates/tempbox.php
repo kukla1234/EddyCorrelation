@@ -12,6 +12,6 @@
 		Thanks, 
 	</p>
 	<p>
-		- The UVa Eddy Correlation Group with Peter Berg
+		- The UVa Eddy Covariance Group with Peter Berg
 	</p>
 </div>

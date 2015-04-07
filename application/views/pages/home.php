@@ -15,7 +15,7 @@
 						<div class="span7">
 							<div class="row-fluid explanation">
 								<p>
-									Welcome to the Eddy Correlation Research Lab at the University of Virginia. We work with the eddy correlation technique for underwater flux measurements in three main areas:
+									Welcome to the Eddy Covariance Research Lab at the University of Virginia (Eddy Covariance is also commonly known as Eddy Correlation). We work with the eddy covariance technique for underwater flux measurements in three main areas:
 									<ol>
 										<li>
 											In situ applications in <a href="gallery">various aquatic environments</a> to address research questions on carbon and nutrient cycling.
@@ -32,7 +32,7 @@
 							
 							<div class="row-fluid explanation">
 								<p>
-									The eddy correlation technique was developed by <a href="team">Peter Berg</a> and the <a href="http://www.mpi-bremen.de/en/">Max Planck Institute for Marine Microbiology, Germany</a>. The first proof of concept paper focusing on oxygen fluxes for different benthic environments was published in 2003 (Berg et al. 2003), and since then an increasing number of groups have adopted the approach.
+									The eddy covariance technique was developed by <a href="team">Peter Berg</a> and the <a href="http://www.mpi-bremen.de/en/">Max Planck Institute for Marine Microbiology, Germany</a>. The first proof of concept paper focusing on oxygen fluxes for different benthic environments was published in 2003 (Berg et al. 2003), and since then an increasing number of groups have adopted the approach.
 								</p>
 							</div> 
 							
@@ -56,7 +56,7 @@
 								</ol>
 
 								<p>
-									For most benthic ecosystems, the eddy correlation technique represents the closest we come today to measuring true in situ fluxes.
+									For most benthic ecosystems, the eddy covariance technique represents the closest we come today to measuring true in situ fluxes.
 								</p>
 								</div>
 					

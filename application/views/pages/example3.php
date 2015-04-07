@@ -30,7 +30,7 @@
 												<img src="img/data/PlotWebSite3.png" alt="data example 3">
 												<div class="carousel-caption datacaption">
 													<p class="carouselcaption datacaption">
-														High-quality eddy correlation data measured in a test deployment of a new robust proto-type oxygen sensor.
+														High-quality eddy covariance data measured in a test deployment of a new robust proto-type oxygen sensor.
 														The data covering 22 hours were measured over permeable sand at 10 m depth in the Florida Keys.
 														Raw data were recorded in one long continuous data sequence.
 														<a href="gallery#floridakeyspermeablesediments">Gallery</a>

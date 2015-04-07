@@ -29,7 +29,7 @@
 												<img src="img/data/PlotWebSite4.png" alt="data example 4">
 												<div class="carousel-caption datacaption">
 													<p class="carouselcaption datacaption">
-														 High-quality eddy correlation data through 26 hours measured over a seagrass meadow in the Virginia coastal bays. Raw data were recorded in 15 min data segments that included a short pause at the end. <a href="gallery#easternshoreseagrassbeds">Gallery</a>
+														 High-quality eddy covariance data through 26 hours measured over a seagrass meadow in the Virginia coastal bays. Raw data were recorded in 15 min data segments that included a short pause at the end. <a href="gallery#easternshoreseagrassbeds">Gallery</a>
                                                             <br/><br/>
                                                             <b>First panel:</b> Three velocity components (x, y, z), mean current velocity, and water depth. The velocity was varying between 1 and 6 cm s<sup>-1</sup> and driven mainly by tides. Some of the short-term variation in velocity represents wave action. 
                                                             <br/>
