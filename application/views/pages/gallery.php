@@ -107,7 +107,7 @@ function printImageSet($groupname,$subdirectory){
     while ($file = readdir($handler)) {
 
       // if file isn't this directory or its parent, add it to the results
-      if ($file != "." && $file != ".." && $file != "Thumbs.db") {
+      if ($file != "." && $file != ".." && $file != "Thumbs.db" && $file != ".AppleDouble") {
         $results[] = $file;
       }
 
