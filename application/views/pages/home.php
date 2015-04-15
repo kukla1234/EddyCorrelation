@@ -15,7 +15,7 @@
 						<div class="span7">
 							<div class="row-fluid explanation">
 								<p>
-									Welcome to the Eddy Covariance Research Lab at the University of Virginia (Eddy Covariance is also commonly known as Eddy Correlation). We work with the eddy covariance technique for underwater flux measurements in three main areas:
+									Welcome to the Aquatic Eddy Covariance Research Lab at the University of Virginia. We work with the eddy covariance technique, also known as the eddy correlation technique, for underwater flux measurements in three main areas:
 									<ol>
 										<li>
 											In situ applications in <a href="gallery">various aquatic environments</a> to address research questions on carbon and nutrient cycling.
