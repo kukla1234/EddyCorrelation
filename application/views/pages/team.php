@@ -16,7 +16,7 @@
 				</div>
 
 				<div class="wrapper-content container-fluid">
-
+                    <!--Start Berg-->
 					<div class="row-fluid bio">
 						<div class="span8 bio-text">
 							<p>
@@ -26,7 +26,7 @@
 								A dominant approach in my work at UVA has been the use of applied mathematical modeling, which I have combined with the development of new measuring techniques and approaches. I see these two foci as highly complementary and powerful, and on a personal level I am very excited to apply them to address research questions focusing on the benthic environment.
 							</p>
 							<p>
-								From 2001 forward, I pioneered the eddy covariance technique in collaboration with the Max Planck Institute for Marine Microbiology, Germany. At first, this was a side project to my ongoing modeling activities, but given our first successes and the potential of the approach, it quickly became the main focus of my work. Today I work exclusively on the eddy covariance technique. As reflected in the <a href="publications"> publications from my lab group</a> this work is focusing on further developing the technique, and also on applying it to benthic environments where traditional flux approaches are hard to use, and where our knowledge on benthic exchange is thus limited.
+								From 2001 forward, I pioneered the aquatic eddy covariance technique for oxygen flux measurements in collaboration with the Max Planck Institute for Marine Microbiology, Germany. At first, this was a side project to my ongoing modeling activities, but given our first successes and the potential of the approach, it quickly became the main focus of my work. Today I work exclusively on the eddy covariance technique. As reflected in the <a href="publications"> publications from my lab group</a> this work is focusing on further developing the technique, and also on applying it to benthic environments where traditional flux approaches are hard to use, and where our knowledge on benthic exchange is thus limited.
 							</p>
 							<p>
 								A link to my diagenetic modeling work, including download options for papers and the profile interpretation software, PROFILE, is given <a href="modeling">here. </a>
@@ -45,7 +45,13 @@
 						</div>
 					</div>
 					<hr>
-					
+                    <!--End Berg-->
+<!--
+**
+**              CURRENT STUDENTS 
+**
+-->      
+					<!--Start Marie Delgard-->
 					<div class="row-fluid bio">
 						<div class="span12 team-member bio-pic-sub">
 							<div class="span8 bio-left">
@@ -66,28 +72,57 @@
 							</div>
 						</div>
 					</div>
-										
+                <!--End Marie Delgard-->
+                    
+                <!--Martin Volric Start-->
 					<div class="row-fluid bio">
 						<div class="span12 team-member bio-pic-sub">
 							<div class="span8 bio-left">
 								<div class="bio-text blurb">
 									<p>
-										My graduate thesis research focused on biogeochemical cycling and hydrodynamics of recovering seagrass meadows on the Eastern Shore of Virginia. Specifically, Dr. Berg and I adapted the micrometeorological concept of eddy-covariance to measure fluctuations of dissolved oxygen in order to determine ecosystem metabolism dynamics of seagrasses. As a graduate research student for Dr. Berg, I was lucky to participate in multiple research cruises and field campaigns around the globe. After graduating from UVa, I accepted a research assistant position at the Scottish Association for Marine Science in Oban, Scotland where I set up an aquatic eddy-covariance lab. Upon moving back to the United States, I decided to apply my educational background to marine policy and conservation.
-									</p>
-									<p>
-										 Current location: World Wildlife Fund (WWF).
+										My research will focus primarily on the ecology of oyster reefs in the shallow lagoons of the 
+										VCR-LTER. I will use the eddy covariance technique to measure oyster metabolism in response 
+										to a variety of environmental and ecological factors. I hope to measure the success of current 
+										oyster restoration efforts as well as quantify important factors for future reef restoration.
 									</p>
 								</div>
 							</div>
 							<div class="span4 bio-right">
-								<h4>Andrew Hume</h4> <span class="descriptor">Former MS Student</span><span class="descriptor line2">Graduated May 2008</span>
+								<h4>Martin Volaric</h4><span class="descriptor">Ph.D Student</span>
 								<p>
-									<a href="img/people/Andrew%20Hume.jpg" rel="lightbox" target="_blank"><img src="img/people/Andrew%20Hume-thumb.jpg" alt="Andrew Hume Profile"></a> 
+									<a href="img/people/Martin%20Volaric.jpg" rel="lightbox" target="_blank"><img src="img/people/Martin%20Volaric-thumb.jpg" alt="Martin Volaric Profile"></a> 
 								</p>
 							</div>
 						</div>
-					</div>			
+					</div>
+                <!--Martin Volric End-->
+                <!--Start Amelie Berger -->
+                    	<div class="row-fluid bio">
+						<div class="span12 team-member bio-pic-sub">
+							<div class="span8 bio-left">
+								<div class="bio-text blurb">
+									<p>
+										My research will focus on the ecology of seagrass meadows in the shallow lagoons of the VCR-LTER. I will use the eddy covariance technique to measure whole-system metabolism in response to changes in environmental and ecological variables.
+									</p>
+								</div>
+							</div>
+							<div class="span4 bio-right">
+								<h4>Amelie Berger</h4><span class="descriptor">MS Student</span>
+								<p>
+									<a href="img/people/AmelieBerger.jpg" rel="lightbox" target="_blank"><img src="img/people/AmelieBerger-thumb.jpg" alt="Martin Volaric Profile"></a> 
+								</p>
+							</div>
+						</div>
+					</div>
+                <!--End Amelie Berger-->
 
+<!--
+**
+**              FORMER STUDENTS BELOW (ordering: most recent to least recent grad year)
+**
+-->                    
+
+                    <!--Start Dirk Koopmans-->
 					<div class="row-fluid bio">
 						<div class="span12 team-member bio-pic-sub">
 							<div class="span8 bio-left">
@@ -99,7 +134,7 @@
 										An abundant source of nutrients to freshwater and shallow marine ecosystems is groundwater. Because over-enrichment of surface waters with nutrients leads to water quality degradation and habitat loss, I have also worked with seepage meters, radioisotopic tracers, thermal imagery, and salt and heat fluxes calculated with the eddy covariance technique to quantify sources of groundwater discharge to surface waters. The delivery of groundwater nutrients to surface water at some locations is controlled by microbial activity in sediments. By improving our understanding of these processes we can improve the application of our effort to preserving water quality and aquatic habitats.
 									</p>
 									<p>
-										Current Location: University of Virginia.
+										Current Location: School of Freshwater Sciences, University of Wisconsin-Milwaukee.
 									</p>
 								</div>
 							</div>
@@ -111,7 +146,8 @@
 							</div>
 						</div>
 					</div>
-					
+                    <!--End Dirk Koopmans-->
+					<!--Start Matthew Long-->
 					<div class="row-fluid bio">
 						<div class="span12 team-member bio-pic-sub">
 							<div class="span8 bio-left">
@@ -133,7 +169,8 @@
 							</div>
 						</div>
 					</div>
-					
+                    <!--End Matthew Long-->
+					<!--Start Jennie-->
 					<div class="row-fluid bio">
 						<div class="span12 team-member bio-pic-sub">
 							<div class="span8 bio-left">
@@ -152,28 +189,30 @@
 							</div>
 						</div>
 					</div>
-					
+                    <!--Ends Jennie-->
+				<!--Start Andrew Hume-->						
 					<div class="row-fluid bio">
 						<div class="span12 team-member bio-pic-sub">
 							<div class="span8 bio-left">
 								<div class="bio-text blurb">
 									<p>
-										My research will focus primarily on the ecology of oyster reefs in the shallow lagoons of the 
-										VCR-LTER. I will use the eddy covariance technique to measure oyster metabolism in response 
-										to a variety of environmental and ecological factors. I hope to measure the success of current 
-										oyster restoration efforts as well as quantify important factors for future reef restoration.
+										My graduate thesis research focused on biogeochemical cycling and hydrodynamics of recovering seagrass meadows on the Eastern Shore of Virginia. Specifically, Dr. Berg and I adapted the micrometeorological concept of eddy-covariance to measure fluctuations of dissolved oxygen in order to determine ecosystem metabolism dynamics of seagrasses. As a graduate research student for Dr. Berg, I was lucky to participate in multiple research cruises and field campaigns around the globe. After graduating from UVa, I accepted a research assistant position at the Scottish Association for Marine Science in Oban, Scotland where I set up an aquatic eddy-covariance lab. Upon moving back to the United States, I decided to apply my educational background to marine policy and conservation.
+									</p>
+									<p>
+										 Current location: World Wildlife Fund (WWF).
 									</p>
 								</div>
 							</div>
 							<div class="span4 bio-right">
-								<h4>Martin Volaric</h4><span class="descriptor">Ph.D Student</span>
+								<h4>Andrew Hume</h4> <span class="descriptor">Former MS Student</span><span class="descriptor line2">Graduated May 2008</span>
 								<p>
-									<a href="img/people/Martin%20Volaric.jpg" rel="lightbox" target="_blank"><img src="img/people/Martin%20Volaric-thumb.jpg" alt="Martin Volaric Profile"></a> 
+									<a href="img/people/Andrew%20Hume.jpg" rel="lightbox" target="_blank"><img src="img/people/Andrew%20Hume-thumb.jpg" alt="Andrew Hume Profile"></a> 
 								</p>
 							</div>
 						</div>
-					</div>
-					
+					</div>			
+                    <!--End Andrew Hume-->
+                <!--Webmaster Start Start-->
 					<div class="row-fluid bio">
 						<div class="span12 team-member bio-pic-sub">
 							<div class="span8 bio-left">
@@ -194,6 +233,7 @@
 							</div>
 						</div>
 					</div>
+                    <!--Web Master End-->
 
 				</div>
 				<!--wrapper-content -->

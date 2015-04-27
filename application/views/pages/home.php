@@ -32,7 +32,8 @@
 							
 							<div class="row-fluid explanation">
 								<p>
-									The eddy covariance technique was developed by <a href="team">Peter Berg</a> and the <a href="http://www.mpi-bremen.de/en/">Max Planck Institute for Marine Microbiology, Germany</a>. The first proof of concept paper focusing on oxygen fluxes for different benthic environments was published in 2003 (Berg et al. 2003), and since then an increasing number of groups have adopted the approach.
+                                    The aquatic eddy covariance technique was adapted from the atmospheric boundary layer to the benthic environment by <a href="team">Peter Berg</a> and the <a href="http://www.mpi-bremen.de/en/">Max Planck Institute for Marine Microbiology, Germany</a>. The first proof of concept paper focusing on oxygen fluxes for different benthic ecosystems was published in 2003 (Berg et al. 2003), and since then an increasing number of groups have adopted the approach
+								
 								</p>
 							</div> 
 							
