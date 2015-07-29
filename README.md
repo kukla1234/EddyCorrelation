@@ -17,7 +17,6 @@ You will need [MAMP](https://www.mamp.info/en/)/[WAMP](http://www.wampserver.com
 ```
 # For live server, comment in dev
 #AddHandler su-php-script .php
-
 #RewriteBase /berg/
 
 
@@ -27,17 +26,19 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ /berg/index.php/ [L,QSA]
 
+#For a 3rd server we rarely use
 #Redirect 301 / http://faculty.virginia.edu/
 
 ``` 
 
 ###### Set up repo locally
 Clone the repo into `htdocs` (MAMP), sometimes `www` if WAMP
+
 The repo will be cloned to the directory `htdocs/EddyCorrelation/*stuff*`. You will want to change the name of the directory `EddyCorrelation` to `berg` so it matches the url rewrites in `.htaccess` made to work with the url schema on the live site. 
 
 This is important otherwise the CSS & JS won't work and the menu will return `not found` errors when attempting to navigate locally. 
 
-Once this is complete you should be able to run the site locally. 
+Once this is complete you should be able to run the site locally using MAMP.
 
 
 ## Conventions
@@ -45,17 +46,22 @@ Once this is complete you should be able to run the site locally.
 ##### Branching to make changes
 
 Create a branch to make all updates on `git checkout -b <branch-name>` 
-Try to make you branch name descriptive of what your updates are. 
+
+Try to make your branch name is descriptive of what your modifications are. 
+
 Once you have completed your updates and **tested** them on the locally running dev site, you should create a pull request against the master branch. 
+
 Look at the diffs and review your code. Once you are confident you have made your updates you may merge the branch to master.
+
 
 Making updates on branches and then merging them **after testing** will prevent you from getting into a situation where you accidentally commit something that breaks your main (master) branch and makes you extremely stressed. 
 
 ##### Commits
-commits should be descriptive of their contents and the changes made
+Commits should be descriptive of their contents and the changes made.
 
 ##### Pull Requests
-If making lots of updates to the site, create a separate branch and pull request for each distinct update. Pull requests should be as focused to a task of end goal as possible. 
+If making lots of updates to the site, create a separate branch and pull request for each distinct update. Pull requests should be as focused to a task/end goal as possible. 
+
 If you need to update publications and some CSS, make a pull request for each. Try to to keep any given pull request focused on a single objective or update. 
 
 #### Helpful Git Commands
@@ -69,9 +75,10 @@ If you need to update publications and some CSS, make a pull request for each. T
 ##Tools
 ##### Sublime Text 2
 I recommend [Sublime](http://www.sublimetext.com/blog/articles/sublime-text-2-0-released) for development, it has lots of great plugins. (It will ask you periodically if you want to buy a lisence but you can always dismiss it and keep using it for free)
+
 You will want to install [Sublime Package Control](https://packagecontrol.io/) for easily installing and managing any sublime plugins you want. 
 
-**Recommended Plugin** I highly recommend you install the plugin `gitgutter` once you have installed package control. If will mark the lines you have changed since the last commit in sublime's gutter (space between line numbers and code) and is like a real-time `git diff`. 
+* **Recommended Plugin** I highly recommend you install the plugin `gitgutter` once you have installed package control. If will mark the lines you have changed since the last commit in sublime's gutter (space between line numbers and code) and is like a real-time `git diff`. 
 
 ##### Cisco Anyconnect Secure Client
 You will need this for connecting to the live server if you are not on the UVA network on grounds.
