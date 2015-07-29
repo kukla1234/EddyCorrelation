@@ -19,8 +19,6 @@
 						<h3>Publications on Eddy Covariance</h3>
 						<?php
 						$this->view("templates/printCitation");
-                        printCitation("<b>Berg, P.</b>, C. E. Reimers, J. Rosman, T. Özkan-Haller, M. Huettel, <b>M. L. Delgard</b>. (Submitted). Time lag correction of aquatic eddy covariance data measured in the presence of waves.
-<b>Biogeosciences Discuss.</b>");
 
                         printCitation("<b>Berg, P., D. Koopmans</b>, M. Huettel, H. Li, K. Mori, A. Wüest. (Submitted). A new robust oxygen-temperature sensor for aquatic eddy covariance measurements. <b>Limnology and Oceanography: Methods.</b>");
 
@@ -28,11 +26,14 @@
 
                         printCitation("Reimers, C. E., T. Özkan-Haller, A. Albright, <b>P. Berg</b>. (Submitted). Microelectrode Velocity Effects and Aquatic Eddy Covariance Measurements under Waves. <b>Journal of Atmospheric and Oceanic Technology</b>.");
 
-                        printCitation("<b>Long, M.H.</b>, <b>P. Berg</b> J. L. Falter. (Accepted). Seagrass Metabolism across a Productivity Gradient using the Eddy Correlation, Eulerian Control Volume, and Biomass Addition Techniques. <b>J. Geophys. Res.: Oceans.</b>.");
+                        printCitation("<b>Berg, P.</b>, C. E. Reimers, J. Rosman, T. Özkan-Haller, M. Huettel, <b>M. L. Delgard</b>. (2015). Technical Note:ime lag correction of aquatic eddy covariance data measured in the presence of waves.
+<b>Biogeosciences Discuss.</b> 12: 8395–8427. doi: 10.5194/bgd-12-8395-2015.","eddy", "Berg et al 2015 BGD.pdf");
+                        
+                        printCitation("Long, M.H., <b>P. Berg</b> J. L. Falter. (2015). Seagrass Metabolism across a Productivity Gradient using the Eddy Correlation, Eulerian Control Volume, and Biomass Addition Techniques. <b>J. Geophys. Res.: Oceans.</b> 120: doi: 10.1002/2014JC010352.","eddy","Long et al 2015 Journal of Geophysical Research Oceans.pdf");
 
-                        printCitation("<b>Koopmans,D.</b>, <b>P. Berg</b> (Accepted). Stream oxygen flux and metabolism determined with the open water and eddy correlation techniques. <b>Limnology and Oceanography</b>.");
+                        printCitation("Koopmans,D., <b>P. Berg</b> (2015). Stream oxygen flux and metabolism determined with the open water and eddy correlation techniques. <b>Limnology and Oceanography</b>. 00, 1–25.","eddy","Koopmans and Berg 2015 L&Otemp.pdf");
 
-                        printCitation("<b>Long, M.H.</b>, <b>P. Berg</b> K. J. McGlathery, J. C. Zieman. (Accepted). Sub-Tropical Seagrass Ecosystem Metabolism Measured by Eddy Correlation. <b>Marine Ecology Progress Series</b>.");
+                        printCitation("Long, M.H., <b>P. Berg</b> K. J. McGlathery, J. C. Zieman. (2015). Sub-Tropical Seagrass Ecosystem Metabolism Measured by Eddy Correlation. <b>Marine Ecology Progress Series</b>. 529: 75–90.","eddy","Long et al 2015 MEPS.pdf");
                      
                         printCitation("<b>Rheuban, J.,</b> <b>P. Berg,</b> K.J. McGlathery. (2014). <b>Feature Article:</b> Seasonal oxygen metabolism in restored Zostera marina L. (eelgrass) meadows measured by eddy correlation. <b>Marine Ecology Progress Series</b>. 507, 1–13.","eddy","Rheuban%20et%20al%202014%20MEPS.pdf");
 			
