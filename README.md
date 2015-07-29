@@ -70,7 +70,13 @@ If you need to update publications and some CSS, make a pull request for each. T
 ##### Sublime Text 2
 I recommend [Sublime](http://www.sublimetext.com/blog/articles/sublime-text-2-0-released) for development, it has lots of great plugins. (It will ask you periodically if you want to buy a lisence but you can always dismiss it and keep using it for free)
 You will want to install [Sublime Package Control](https://packagecontrol.io/) for easily installing and managing any sublime plugins you want. 
+
 **Recommended Plugin** I highly recommend you install the plugin `gitgutter` once you have installed package control. If will mark the lines you have changed since the last commit in sublime's gutter (space between line numbers and code) and is like a real-time `git diff`. 
+
+##### Cisco Anyconnect Secure Client
+You will need this for connecting to the live server if you are not on the UVA network on grounds.
+[Cisco Anyconnect from UVA Software Gateway](http://its.virginia.edu/software/displayPackages.php?tId=63)
+
 
 
 ## Deploying to Live Site
