@@ -42,7 +42,7 @@ Once this is complete you should be able to run the site locally.
 
 ## Conventions
 
-###### Branching to make changes
+##### Branching to make changes
 
 Create a branch to make all updates on `git checkout -b <branch-name>` 
 Try to make you branch name descriptive of what your updates are. 
@@ -51,23 +51,23 @@ Look at the diffs and review your code. Once you are confident you have made you
 
 Making updates on branches and then merging them **after testing** will prevent you from getting into a situation where you accidentally commit something that breaks your main (master) branch and makes you extremely stressed. 
 
-###### Commits
+##### Commits
 commits should be descriptive of their contents and the changes made
 
-###### Pull Requests
+##### Pull Requests
 If making lots of updates to the site, create a separate branch and pull request for each distinct update. Pull requests should be as focused to a task of end goal as possible. 
 If you need to update publications and some CSS, make a pull request for each. Try to to keep any given pull request focused on a single objective or update. 
 
 #### Helpful Git Commands
-`git fetch` update your list of branches in your local terminal
-`git branch` check which branch you are on
-`git stash` stash all changes made since the last commit
-`git reset` (has options, google) useful if you f*ck something up and want to go back to a pervious (working) commit
-`git checkout` switch between branches
-`git diff` see the changes you have made since your last commit
+* `git fetch` update your list of branches in your local terminal
+* `git branch` check which branch you are on
+* `git stash` stash all changes made since the last commit
+* `git reset` (has options, google) useful if you f*ck something up and want to go back to a pervious (working) commit
+* `git checkout` switch between branches
+* `git diff` see the changes you have made since your last commit
 
 ##Tools
-###### Sublime Text 2
+##### Sublime Text 2
 I recommend [Sublime](http://www.sublimetext.com/blog/articles/sublime-text-2-0-released) for development, it has lots of great plugins. (It will ask you periodically if you want to buy a lisence but you can always dismiss it and keep using it for free)
 You will want to install [Sublime Package Control](https://packagecontrol.io/) for easily installing and managing any sublime plugins you want. 
 **Recommended Plugin** I highly recommend you install the plugin `gitgutter` once you have installed package control. If will mark the lines you have changed since the last commit in sublime's gutter (space between line numbers and code) and is like a real-time `git diff`. 
