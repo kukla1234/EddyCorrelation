@@ -78,7 +78,7 @@ I recommend [Sublime](http://www.sublimetext.com/blog/articles/sublime-text-2-0-
 
 You will want to install [Sublime Package Control](https://packagecontrol.io/) for easily installing and managing any sublime plugins you want. 
 
-	**Recommended Plugin** I highly recommend you install the plugin `gitgutter` once you have installed package control. If will mark the lines you have changed since the last commit in sublime's gutter (space between line numbers and code) and is like a real-time `git diff`. 
+* **Recommended Plugin** I highly recommend you install the plugin `gitgutter` once you have installed package control. If will mark the lines you have changed since the last commit in sublime's gutter (space between line numbers and code) and is like a real-time `git diff`. 
 
 ##### Cisco Anyconnect Secure Client
 You will need this for connecting to the live server if you are not on the UVA network on grounds.
