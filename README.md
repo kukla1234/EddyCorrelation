@@ -1,7 +1,7 @@
 # EddyCorrelation
 ===============
 
-Eddy Correlation website for Professor Berg
+Welcome to the Eddy Correlation website for Professor Berg!
 
 ## Onboarding
 
@@ -77,9 +77,28 @@ You will want to install [Sublime Package Control](https://packagecontrol.io/) f
 You will need this for connecting to the live server if you are not on the UVA network on grounds.
 [Cisco Anyconnect from UVA Software Gateway](http://its.virginia.edu/software/displayPackages.php?tId=63)
 
-
+Once installed you should have `UVA Anywhere` as a connection option in the VPN.
 
 ## Deploying to Live Site
+
+#### Off Grounds
+
+1. Start Cisco VPN
+2. Connect to UVA Anywhere.
+3. Go to finder. In the menu bar `Go -> Connect to Server ->`
+4. Enter the server address: `smb://home2.virginia.edu/WebHosts/faculty.virginia.edu/doc/berg`
+5. Connect
+6. Once Connected to the server, navigate into the server in terminal
+7. Navigate to the site directory (server address above should connect you directly to the right place)
+8. git pull using the command `$ git pull github master` to pull the most recent copy of the master branch to the live site. 
+9. Disconnect from all servers when finished. 
+
+
+#### On Grounds (on UVA Network)
+* Skip steps 1 & 2 with the VPN. Start at #3 `Go -> Connect to Server ->` follow instructions as normal. 
+
+
+#### Kukla's Notes
 
 When pulling from server (Kukla) use: 
 $ git pull github master
