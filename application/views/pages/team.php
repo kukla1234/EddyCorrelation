@@ -9,6 +9,7 @@
 
 					<?php
 					$this->view("templates/navbar");
+					
 					$this->view("templates/page-header");
 					
 					?>

@@ -1,13 +1,15 @@
 <body>
 
 		<div id="wrapper" class="wrapper">
+			<?php
+					
+					$this->view("templates/page-header");
+					$this->view("templates/navbar");
+					?>
 			<div id="wrapper-inner" class="wrapper-inner">
 				<div class="wrapper-header">
 
-					<?php
-					$this->view("templates/navbar");
-					$this->view("templates/page-header");
-					?>
+					
 				</div>
 
 				<div style="text-align: center" class="wrapper-content container-fluid">

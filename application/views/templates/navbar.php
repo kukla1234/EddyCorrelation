@@ -1,124 +1,38 @@
-<div class="navbar navbar-inverse">
-	<div class="navbar-inner">
-		<?php /* <a class="brand" href="#">Eddy Covariance Lab</a> */ ?>
-		<ul class="nav">
-			<li>
-				<a href="/berg/"><b class="navtag">Home</b></a>
-			</li>
+<div class="berg_nav-wrapper">
+			<a href="/berg/"><div class="berg_navbar-buttons"><b class="navtag">Home</b></div>	</a>	
+			<a href="/berg/principles/"><div class="berg_navbar-buttons"><b class="navtag">Basic Principles</b></div>	</a>	
+			<a href="/berg/publications"><div class="berg_navbar-buttons"><b class="navtag">Publications</b></div></a>
+			<a href="/berg/team"><div class="berg_navbar-buttons"><b class="navtag">Team</b></div></a>
+			<a href="/berg/gallery"><div class="berg_navbar-buttons"><b class="navtag">Gallery</b></div></a>
+			<a href="/berg/presentations"><div class="berg_navbar-buttons"><b class="navtag">Presentations</b></div></a>
+			<a href="weblinks"><div class="berg_navbar-buttons"><b class="navtag">Resources</b></div></a>
 			
-			<?php /*
-			<li class="dropdown">
-    			<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-      				<b class="navtag">Technique</b>
-      				<b class="caret"></b>
-    			</a>
-    			<ul class="dropdown-menu">
-      				<li>
-						<a href="principles.php">Basic Principles</a>
-					</li>
-					<!-- <li class="divider"></li> -->
-					<li class="nav-header">Data Examples</li> 
-					<li>
-						<a href="#">Coral Reef</a>
-					</li>
-					<li>
-						<a href="#">Seagrass</a>
-					</li>
-					<li>
-						<a href="#">Sensor Development</a>
-					</li>
-    			</ul>
-  			</li>
-			*/ ?>
-			
-			<li>
-				<a href="/berg/principles/"><b class="navtag">Basic Principles</b></a>
-			</li>	
-			
-		
-			<li>
-				<a href="/berg/publications"><b class="navtag">Publications</b></a>
-			</li>
-
-			<?php /*
-			<li class="dropdown" style="inline;">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown"> <b class="navtag">Publications</b> <b class="caret"></b> </a>
-				<ul class="dropdown-menu">
-					<!-- <li class="divider"></li> -->
-					<li>
-						<a href="publications.php"><b class="navtag nav-inner">Eddy Covariance</b></a>
-					</li>
-					<li>	
-						<a href="modeling.php"><b class="navtag nav-inner">Publications on modeling and sediment biogeochemistry</b></a>
-					</li>
-				</ul>
-			</li> */ ?>
-						
-			<li>
-				<a href="/berg/team"><b class="navtag">Team</b></a>
-			</li>
-			<li>
-				<a href="/berg/gallery"><b class="navtag">Gallery</b></a>
-			</li>
-			<li>
-				<a href="/berg/presentations"><b class="navtag">Presentations</b></a>
-			</li>
-            <!-- 
-			<li>
-				<a href="modeling.php"><b class="navtag">Modeling and Sediment Biogeochemistry</b></a>
-			</li>
-            -->
-			<li>
-				<a href="weblinks"><b class="navtag">Web Links and Resources</b></a>
-			</li>
-			<?php /*
-			<li class="dropdown" style="inline;">
-    			<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-      				<b class="navtag">Software Tools</b>
-      				<b class="caret"></b>
-    			</a>
-    			<ul class="dropdown-menu">
-					<!-- <li class="divider"></li> -->
-					<li class="nav-header">Coming Soon!</li> 
-					</li>
-    			</ul>
-  			</li> */ ?>
 			
             <!-- Commented out until we actually get the software on the site
 -->
             <!--<li id="software" onclick="(function() { alert('coming soon!'); })() ">
 				<a href="#"><b class="navtag">Software</b></a>
 			</li>-->
-			
-			<li class="dropdown" style="inline;">
-    			<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-      				<b class="navtag">Data Examples</b>
-      				<b class="caret"></b>
-    			</a>
-    			<ul class="dropdown-menu">
-					<!-- <li class="divider"></li> -->
-					<li>
-						<a href="example1"><b class="navtag nav-inner">Gulf of Mexico, Florida (Raw Data)</b></a>
-					</li>
-					
-					<li>
-						<a href="example2"><b class="navtag nav-inner">Floriday Keys - Coral Reefs</b></a>
-					</li>
-					<li>
-						<a href="example3"><b class="navtag nav-inner">Floriday Keys - Permeable Sediments</b></a>
-					</li>
-                    <li>
-						<a href="example4"><b class="navtag nav-inner">Eastern Shores, Virginia - Seagrass Beds</b></a>
-					</li>
-					
-					</li>
-    			</ul>
-  			</li>
+			<div class="berg_dropdown-wrapper">
+				<a href="#">
+					<div class="berg_navbar-buttons" style="inline;">
+	      				<b class="navtag">Examples</b>
+	      				<b class="caret"></b>
+	      			</div>
+	    		</a>
+	    		<div class="berg_nav-dropdown">
+					<a href="example1"><div class="berg_navbar-buttons-drop"><b class="navtag nav-inner">Gulf of Mexico, Florida (Raw Data)</b></div></a>
+					<a href="example2"><div class="berg_navbar-buttons-drop"><b class="navtag nav-inner">Floriday Keys - Coral Reefs</b></div></a>
+					<a href="example3"><div class="berg_navbar-buttons-drop"><b class="navtag nav-inner">Floriday Keys - Permeable Sediments</b></div></a>
+					<a href="example4"><div class="berg_navbar-buttons-drop"><b class="navtag nav-inner">Eastern Shores, Virginia - Seagrass Beds</b></div></a>	
+	    		</div>
+    		</div>
+  			
 			
 			<!-- 
 			<li>
 				<a href="#contact"><b class="navtag">Contact</b></a>
 			</li> -->
-		</ul>
-	</div> <!-- navbar-inner -->
+		
+
 </div> <!-- navbar -->
