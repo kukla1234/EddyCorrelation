@@ -34,7 +34,10 @@ RewriteRule ^(.*)$ /berg/index.php/ [L,QSA]
 ###### Set up repo locally
 Clone the repo into `htdocs` (MAMP), sometimes `www` if WAMP
 
-The repo will be cloned to the directory `htdocs/EddyCorrelation/*stuff*`. You will want to change the name of the directory `EddyCorrelation` to `berg` so it matches the url rewrites in `.htaccess` made to work with the url schema on the live site. 
+The repo will be cloned to the directory `htdocs/EddyCorrelation/*stuff*`. You will want to change the name of the directory `EddyCorrelation` to `berg` so it matches the url rewrites in `.htaccess` made to work with the url schema on the live site. You can also achieve this in one step when cloning by using the command 
+```
+$ git clone <repo> berg
+```
 
 This is important otherwise the CSS & JS won't work and the menu will return `not found` errors when attempting to navigate locally. 
 
