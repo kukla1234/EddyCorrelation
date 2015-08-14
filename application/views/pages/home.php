@@ -2,9 +2,10 @@
 
 		<div id="wrapper" class="wrapper">
 			<?php
-					
-					$this->view("templates/page-header");
+			
 					$this->view("templates/navbar");
+					$this->view("templates/page-header");
+					
 					?>
 			<div id="wrapper-inner" class="wrapper-inner">
 				<div class="wrapper-header">
@@ -110,4 +111,5 @@
 		$this->view('templates/scripts');
 		?>
 		<script src="js/home.js" type="text/javascript"></script>
+		<script src="js/navigation.js" type="text/javascript"</script>
 	</body>

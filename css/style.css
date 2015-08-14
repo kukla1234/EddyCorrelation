@@ -38,7 +38,7 @@ div.wrapper-inner {
 
 .berg_nav-wrapper{
 	width: 100%;
-	background-color: #DAE9EB;
+	background-color: #85B5BB;
 	text-align: center
 }
 
@@ -56,6 +56,8 @@ div.wrapper-inner {
 .berg_nav-dropdown{
 	font-size: .8em;
 	display: none;
+	float: right;
+  	background-color: #DAE9EB;
 }
 
 .berg_navbar-buttons-drop{
@@ -72,6 +74,10 @@ div.wrapper-inner {
 	background-color: #9DA8AA;
 }
 
+.berg_display{
+	display: block;
+}
+
 /*No Text Decoration on links throughout site*/
 a {
 	text-decoration: none
@@ -79,7 +85,7 @@ a {
 
 b.navtag { 
 	text-decoration: bold;
-	color: #BBBBBB;
+	color: white;
 }
 b.navtag:hover {
 	color: #EEEEEE;
