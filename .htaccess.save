@@ -1,0 +1,13 @@
+# For live server, comment in dev
+#AddHandler su-php-script .php
+#RewriteBase /berg/
+
+RewriteEngine on
+RewriteCond $1 !^(index\.php|text\.php|img|js|css|journals|vid|data|robots\.txt|slides)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /berg/index.php/ [L,QSA]
+
+#Redirect 301 / http://faculty.virginia.edu/
+
+#
