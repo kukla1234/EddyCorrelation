@@ -25,7 +25,7 @@
 							foreach(  array("http://myweb.fsu.edu/mhuettel/Projects/NSF_Eddy.html",
 											"http://dfmcginnis.com/EddyCorrelation.html",
 											"http://www.mpi-bremen.de/en/Eddy_Correlation_System.html",
-											"http://hmsc.oregonstate.edu/reimerslab/boxer",
+											"http://hmsc.oregonstate.edu/research-labs/reimers-lab/current-research",
 											"http://www.scu.edu.au/coastal-biogeochemistry/index.php/49/")
 										as $link){
 											echo '<li>'.weblink($link).'</li>';
@@ -35,9 +35,9 @@
 					<p>Commercial sites:</p>
 					<ul>
 						<?php
-							foreach(  array("http://www.unisense.com/eddy_correlation_system",
+							foreach(  array("http://www.unisense.com/eddy_covariance_system",
 											"http://www.rocklandscientific.com/Products/EddyCorrelation/tabid/120/Default.aspx",
-											"http://www.pme.com/HTML%20Docs/PMENortek.html",
+											"http://pme.com/products/ct-sensor-nortek",
 											"http://www.nortek-as.com/en/products/velocimeters/vector",
 											"http://www.nortek-as.com/en/news/flux-measurements-by-eddy-correlation-in-benthic-environments-using-the-nortek-vector")
 										as $link){
@@ -50,8 +50,9 @@
 						<?php
 							foreach(  array("http://www.licor.com/env/products/eddy_covariance/index.html",
 											"http://www.licor.com/env/products/eddy_covariance/ec_book.html",
-											"http://ameriflux.lbl.gov/SitePages/Home.aspx",
-											"http://www.unitus.it/dipartimenti/disafri/progetti/eflux/euro.html")
+											"http://ameriflux.lbl.gov/",
+											"http://www.europe-fluxdata.eu/home",
+											"http://fluxnet.ornl.gov/")
 										as $link){
 											echo '<li>'.weblink($link).'</li>';
 									}

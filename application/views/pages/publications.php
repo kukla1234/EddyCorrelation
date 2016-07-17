@@ -20,11 +20,27 @@
 						<?php
 						$this->view("templates/printCitation");
 
-                        printCitation("<b>Berg, P., D. Koopmans</b>, M. Huettel, H. Li, K. Mori, A. Wüest. (Submitted). A new robust oxygen-temperature sensor for aquatic eddy covariance measurements. <b>Limnology and Oceanography: Methods.</b>");
+						printCitation("Chipman, L., <b>P. Berg</b>, M. Huettel. (Submitted). Benthic oxygen fluxes measured by eddy covariance
 
-                        printCitation("Chipman, L.,<b> P. Berg</b>, M. Huettel. (Submitted). Benthic oxygen fluxes measured with the eddy covariance technique in coastal Gulf of Mexico permeable sands. <b>Continental Shelf Research</b>.");
+in permeable Gulf of Mexico shallow-water sands. <b>Aquatic Geochemistry</b>.");
+						
+						printCitation("Glud. R. N., <b>P. Berg</b>, H. Stahl, A. Hume, M. Larsen, B. D. Eyre, P. L. M. Cook. (Submitted).
 
-                        printCitation("Reimers, C. E., T. Özkan-Haller, A. Albright, <b>P. Berg</b>. (Submitted). Microelectrode Velocity Effects and Aquatic Eddy Covariance Measurements under Waves. <b>Journal of Atmospheric and Oceanic Technology</b>.");
+Benthic carbon mineralization and nutrient turn-over in a Scottish sea loch: An integrative in situ
+
+study. <b>Aquatic Geochemistry</b>.");
+
+						printCitation("<b>Berg, P.</b>, D. Koopmans, M. Huettel, H. Li, K. Mori, A. Wüest. (2016). A new robust dual oxygen-
+
+temperature sensor for eddy correlation measurements. <b>Limnology and Oceanography:
+
+Methods</b>. 14: 151–167.", "eddy","Berg et al 2016 L&OM.pdf");
+
+						printCitation("Reimers, C. E., T. Özkan-Haller, A. Albright, <b>P. Berg</b>. (2016). Microelectrode Velocity Effects and
+
+Aquatic Eddy Correlation Measurements under Waves. <b>Journal of Atmospheric and Oceanic
+
+Technology</b>. DOI: 10.1175/JTECH-D- 15-0041.1.","eddy","Reimers et al 2016 JTECH.pdf");
 
                         printCitation("<b>Berg, P.</b>, C. E. Reimers, J. Rosman, T. Özkan-Haller, M. Huettel, <b>M. L. Delgard</b>. (2015). Technical Note:ime lag correction of aquatic eddy covariance data measured in the presence of waves.
 <b>Biogeosciences Discuss.</b> 12: 8395–8427. doi: 10.5194/bgd-12-8395-2015.","eddy", "Berg et al 2015 BGD.pdf");
