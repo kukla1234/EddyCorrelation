@@ -23,7 +23,12 @@
 					<ul>
 						<?php
 							foreach(  array("http://myweb.fsu.edu/mhuettel/Projects/NSF_Eddy.html",
+											"http://www.mikenish.com/Research/Benthic_metabolism.html",
+											"http://phys.org/news/2015-05-scientists-high-tech-fragile-cold-water-reefs.html",
+											"http://www.whoi.edu/hpb/viewPage.do?id=136876&cl=1",
+											"http://www.oceannetworks.ca/microsquid-experiment",
 											"http://dfmcginnis.com/EddyCorrelation.html",
+											"https://www.nioz.nl/yes-en",
 											"http://www.mpi-bremen.de/en/Eddy_Correlation_System.html",
 											"http://hmsc.oregonstate.edu/research-labs/reimers-lab/current-research",
 											"http://www.scu.edu.au/coastal-biogeochemistry/index.php/49/")
