@@ -1,5 +1,9 @@
 
 	<body>
+		<?php
+				$this->view("templates/navbar_new");
+				
+				?>	
 		<div id="wrapper" class="wrapper">
 			<div id="wrapper-inner" class="wrapper-inner">
 				
