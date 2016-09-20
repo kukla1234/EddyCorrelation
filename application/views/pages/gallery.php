@@ -1,123 +1,80 @@
+<!-- 
+ * Description: photo Gallery
+ *
+ * @author    Elizabeth Kukla <elizabeth.kukla@gmail.com>
+ * @date      03.09.16
+ * @copyright All rights reserved.
+ */
+ -->
 
-	<body>
-		<div id="wrapper" class="wrapper">
-			<div id="wrapper-inner" class="wrapper-inner">
-				
-				<div class="wrapper-header">					
-				<?php
-				$this->view("templates/navbar");
-				$this->view("templates/page-header");
-				
-				?>							
-				</div>
-				<!-- <div class="wrapper-content container"> -->
-					<?php
-							printGallerySegment("earlydays","Early days",array("" => ""));
-							print '<hr/>';
-							printGallerySegment("easternshore", "Eastern Shore, Virginia", array("smallfreshwaterstreams"=> "Small freshwater streams",
-																						"oysterbeds" => "Oyster beds",
-																						"seagrassbeds" => "Seagrass beds" ));
-							print '<hr/>';
-							printGallerySegment("floridakeys","Florida Keys",array( "coralreefs" => "Coral reefs",
-																					"permeablesediments" => "Permeable sediments",
-																					"seagrassbeds" => "Seagrass beds") );
-							
-							print '<hr/>';
-							printGallerySegment("floridagulf","Gulf of Mexico, Florida", array("permeablesediments"=>"Permeable sediments"));
-							print '<hr/>';
-							printGallerySegment("floridawakulla","Wakulla River, Florida", array("permeablesediments"=>"Permeable sediments"));
-							print '<hr/>';
-							printGallerySegment("greenland","Greenland",array("underseaice"=>"Upside down, under sea ice"));
-							print '<hr/>';
-							printGallerySegment("japan","Japan",array("deepocean"=>"Deep ocean"));
-							print '<hr/>';
-							printGallerySegment("savannah", "Continental shelf, Georgia", array("permeableshelfsediments" => "Permeable sediments"));
-							print '<hr/>';
-							printGallerySegment("switzerland","Switzerland",array("freshwater"=>"Fresh water river sediments"));
-							print '<hr/>';
-							// printGallerySegment("calciumsensor","Test of Calcium Sensor",array(""=>""));
-							// print '<hr/>';
-							printGallerySegment("wisconsin","Great Lakes, Wisconsin", array("quaggamussels"=>"Quagga Mussels overgrown with filamentous algae"));
-							print '<hr/>';
-							printGallerySegment("woodshole","Woods Hole, Massachusetts", array("permeablesediments"=>"Permeable sediments"));
-					?>
-						
-					<!--</div> <!--wrapper-content -->
-					
-				<?php
-					$this->view("templates/footer");
-				?>
-			</div>
-			<!--wrapper-inner-->
-		</div>
-		<!-- wrapper-outer -->
+<body>
+    <link href="/berg/css/fresco/fresco.css" rel="stylesheet">
+    <script src="/berg/js/fresco/fresco.js" type="text/javascript"></script>
+    <div class='berg_content'>
+        <h2 class='berg_content-title'>
+            Gallery
+        </h2>
+        
+        <?php 
+        $this->load->helper('Gallery2');
+            
+            printGallerySegment("earlydays","Early days");
 
-		<?php
-			$this->view("templates/scripts");
-		?>
-		<!-- <script type="text/javascript" src="js/gallery.js"></script> -->
-	</body>
+            $easternshore = [
+                "smallfreshwaterstreams"=> "Small Freshwater Streams",
+                "oysterbeds" => "Oyster beds",
+                "seagrassbeds" => "Seagrass beds" 
+                ];               
+            printGallerySegment("easternshore", "Eastern Shore, Virginia", $easternshore);
 
+            $floridakeys = [
+                            "coralreefs" => "Coral Reefs",
+                            "permeablesediments" => "Permeable Sediments",
+                            "seagrassbeds" => "Seagrass Beds"
+                            ];
+            printGallerySegment("floridakeys","Florida Keys", $floridakeys);
 
-<?php
+            $floridagulf = [
+                            "permeablesediments"=>"Permeable Sediments"
+                            ];
+            printGallerySegment("floridagulf","Gulf of Mexico, Florida", $floridagulf);
 
-function printGallerySegment($header, $title, $sections){
-	print '<div class="row-fluid">';
-//	print '<h2 class="gallery-header">'.$title.'</h2>';
-	print '<div id='.$header.' class="gallery-section">';
-	foreach($sections as $sec => $subheader) {
-		printGalleryNode($header, $sec, $title, $subheader);
-	}
-	print '</div><!--./gallery-section-->
-			</div><!--./row-fluid-->';
-}
+            $floridawakulla = [
+                            "permeablesediments"=>"Permeable sediments"
+                            ];
+            printGallerySegment("floridawakulla","Wakulla River, Florida", $floridawakulla);
 
-function printGalleryNode($directory, $subdirectory, $title, $subtitle){
-	$subt = ($subtitle)? " - ".$subtitle  : "";
-	print '<h2 class="gallery-header" id='.$directory.$subdirectory.'>'.$title.$subt.'</h2>
-			<div class="imageRow">';
-	printImageSet($directory,$subdirectory);
-	print '</div><!--./imagerow-->';
-}
+            $greenland = [
+                            "underseaice"=>"Upside Down, Under Sea Ice"
+                            ];
+            printGallerySegment("greenland","Greenland", $greenland);
 
-function printImageSet($groupname,$subdirectory){
-	$directory = $groupname;
-	if($subdirectory) {
-		$directory .= '/'.$subdirectory;
-	}
-	$imggroup = ($subdirectory? $subdirectory : $groupname);
-	$imageNames = str_replace(" ", "%20", getDirectoryList('img/'.$directory.'/pics/') );
-	print '<div class="set">'; 
-	for($i = 0; $i < count($imageNames); $i++) {
-		print '<a class="single" href="img/'.$directory.'/pics/'.$imageNames[$i].'" rel="lightbox['.$directory.']"><img src="img/'.$directory.'/thumbs/tn_'.$imageNames[$i].'" alt="'.$groupname.' '.($groupname == $imggroup? "" : $imggroup.' ').$i.'" /></a>';
-	} 
-	print '</div>';
-}
- 
- function getDirectoryList ($directory) 
-  {
+            $japan = [
+                      "deepocean"=>"Deep ocean"
+                     ];
 
-    // create an array to hold directory list
-    $results = array();
+            printGallerySegment("japan","Japan",$japan);
 
-    // create a handler for the directory
-    $handler = opendir($directory);
+            $savannah = [
+                      "permeableshelfsediments" => "Permeable Sediments"
+                     ];
 
-    // open directory and walk through the filenames
-    while ($file = readdir($handler)) {
+            printGallerySegment("savannah", "Continental shelf, Georgia", $savannah);
 
-      // if file isn't this directory or its parent, add it to the results
-      if ($file != "." && $file != ".." && $file != "Thumbs.db" && $file != ".AppleDouble") {
-        $results[] = $file;
-      }
+            $switzerland = [
+                      "freshwater"=>"Fresh water river sediments"
+                     ];
+            printGallerySegment("switzerland","Switzerland", $switzerland);
 
-    }
+            $wisconsin = [
+                      "quaggamussels"=>"Quagga Mussels overgrown with filamentous algae"
+                     ];
+            printGallerySegment("wisconsin","Great Lakes, Wisconsin", $wisconsin);
 
-    // tidy up: close the handler
-    closedir($handler);
-
-    // done!
-    return $results;
-
-  }
-?>
+            $woodshole = [
+                      "permeablesediments"=>"Permeable sediments"
+                     ];
+            printGallerySegment("woodshole","Woods Hole, Massachusetts", $woodshole);
+        ?>      
+    </div>
+</body>

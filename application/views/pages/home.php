@@ -54,7 +54,7 @@
                 </li>
 
                 <li>
-                    The technique can be applied in environments where traditional enclosure methods are difficult to use, including highly permeable sediments, seagrass meadows, coral and oyster reefs, and also sea-ice surfaces (<a href="/gallery">see Gallery</a>).
+                    The technique can be applied in environments where traditional enclosure methods are difficult to use, including highly permeable sediments, seagrass meadows, coral and oyster reefs, and also sea-ice surfaces (<a href="/berg/gallery">see Gallery</a>).
                 </li>
             </ol>
 
