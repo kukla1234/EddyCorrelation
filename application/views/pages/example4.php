@@ -1,70 +1,60 @@
+<!-- 
+ * Description: Examples page - Virginia seagrass beds
+ *
+ * @author    Elizabeth Kukla <elizabeth.kukla@gmail.com>
+ * @date      03.09.16
+ * @copyright All rights reserved.
+ */
+ -->
+
 <body>
-		
-		
+    <div class='berg_content'>
+        <h2 class='berg_content-title'>
+          Eastern Shore, Virginia
+        </h2>
 
-		<div id="wrapper" class="wrapper">
+        <h3 class='berg_content-subtitle'>
+            Seagrass Beds
+        </h3>
 
-			<div id="wrapper-inner" class="wrapper-inner">
-				<div class="wrapper-header">
+        <div class='berg_image-container berg_align-center'>
+          <img src="/berg/img/data/PlotWebSite4.png" alt="Data Example 4" class="berg_carousel-image">
+            <div class='berg_image-caption berg_rounded_8'>
+              <p>
+                High-quality eddy covariance data through 26 hours measured over a seagrass meadow in the Virginia 
+                coastal bays. Raw data were recorded in 15 min data segments that included a short pause at the end. 
+              </p>
+                
+              <p>
+                First panel: Three velocity components (x, y, z), mean current velocity, and water depth. The velocity 
+                was varying between 1 and 6 cm s-1 and driven mainly by tides. Some of the short-term variation in 
+                velocity represents wave action. 
+              </p>
 
-					<?php
-						$this->view( "templates/navbar");	
-						$this->view("templates/page-header");
-					?>
-				</div>
+              <p>
+                Second panel: Oxygen concentration measured with a fast-responding micro-electrode and a stable optode. 
+                The latter was used for calibration.
+              </p>
 
-				<div class="wrapper-content container-fluid">
+              <p>
+                hird panel: Cumulative oxygen fluxes with clear linear trends indicating a strong consistent flux signal 
+                in the data. 
+              </p>
 
-					<div class="row-fluid">
-						<div class="span12">
-							<h3 style="text-align:center" >Eastern Shore, Virginia - Seagrass Beds </h3>
+              <p>
+                Fourth panel: Oxygen fluxes, one for each 15 min data segment, and light (PAR) measured over the reef. 
+                Positive fluxes represent a release.
+              </p>
 
-							<div class="row-fluid">
-								<div class="span10 offset1">
-									
-									
-									<div id="slideshow" class="carousel slide" data-interval="false">
-										<div class="carousel-inner">
-											<div class="item active">
-												<img src="img/data/PlotWebSite4.png" alt="data example 4">
-												<div class="carousel-caption datacaption">
-													<p class="carouselcaption datacaption">
-														 High-quality eddy covariance data through 26 hours measured over a seagrass meadow in the Virginia coastal bays. Raw data were recorded in 15 min data segments that included a short pause at the end. <a href="gallery#easternshoreseagrassbeds">Gallery</a>
-                                                            <br/><br/>
-                                                            <b>First panel:</b> Three velocity components (x, y, z), mean current velocity, and water depth. The velocity was varying between 1 and 6 cm s<sup>-1</sup> and driven mainly by tides. Some of the short-term variation in velocity represents wave action. 
-                                                            <br/>
-                                                            <b>Second panel:</b> Oxygen concentration measured with a fast-responding micro-electrode and a stable optode. The latter was used for calibration. 
-                                                            <br/>
-                                                            <b>Third panel:</b> Cumulative oxygen fluxes with clear linear trends indicating a strong consistent flux signal in the data. 
-                                                            <br/>
-                                                            <b>Fourth panel:</b> Oxygen fluxes, one for each 15 min data segment, and light (PAR) measured over the reef. Positive fluxes represent a release. 
-                                                            <br/><br/>
-                                                            Note the large diurnal variation in concentration of ~100% (<b>Second panel</b>) and the tight correlation between oxygen flux and light (<b>Fourth panel</b>), for example illustrated by the storm event that began at hour 38 with large reduction in light and resulting decline in oxygen flux. For further details on the data, see <a href="journals/Rheuban%20et%20al%202014%20MEPS.pdf">Rheuban et al. (2014)</a>.
-													</p>
-												</div>
-											</div>
-									</div><!-- /.carousel -->
-										
-								</div> <!--/.span10 -->
-							</div>	<!--/.row-fluid -->
+              <p>
+                Note the large diurnal variation in concentration of ~100% (Second panel) and the tight correlation 
+                between oxygen flux and light (Fourth panel), for example illustrated by the storm event that began at 
+                hour 38 with large reduction in light and resulting decline in oxygen flux. For further details on the 
+                data, see <a href="/berg/journals/Rheuban%20et%20al%202014%20MEPS.pdf">Rheuban 
+                et al. (2014)</a>. 
+              </p>
 
-						</div> <!--/.span10-->
-					</div><!--/.row-fluid-->
-
-				</div>
-				<!--wrapper-content -->
-				<?php
-				$this->view( "templates/footer");
-				?>
-			</div>
-			<!--wrapper-inner-->
-		</div>
-		<!-- wrapper-outer -->
-
-		<?php
-		$this->view("templates/scripts");	
-	?>
-	<script type="text/javascript">
-		$(".carousel").carousel( { interval : false } );
-	</script>
-	</body>
+            </div>
+        </div>
+    </div>
+</body>
