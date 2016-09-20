@@ -54,7 +54,5 @@
 
 		<![endif]-->
 		
-		<?php
-			$this->view('templates/analyticstracking.php');
-		?>
+
 		</head>

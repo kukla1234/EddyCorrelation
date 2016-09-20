@@ -30,13 +30,10 @@ class Eddy extends CI_Controller {
 		$data['title'] = ucfirst($page);
 		// Capitalize the first letter
 
-		$this->load->view('templates/header');
+		$this->load->view('templates/berg_head');
+		$this->load->view('templates/berg_navbar');
 		$this->load->view('pages/'.$page);
-		$this->load->view('templates/foot');
+		$this->load->view('templates/berg_footer');
 		}	
 	}
 }
-
- 
-//* End of file welcome.php */
-/* Location: ./application/controllers/welcome.php */

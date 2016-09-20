@@ -1,0 +1,209 @@
+/**
+ * Description: Style Sheets for body content
+ *
+ * @author    Elizabeth Kukla <elizabeth.kukla@gmail.com>
+ * @date      03.09.16
+ * @copyright All rights reserved.
+ */
+
+
+.berg_content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px 20px;
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
+    font-family: 'Helvetica Neue';
+}
+
+p {
+    margin-top: 1rem;
+    margin-bottom: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.berg_float-left {
+    float: left;
+}
+
+.berg_float-right {
+    float: right;
+}
+
+.berg_clear-floats {
+    clear: both;
+}
+
+
+.berg_content-single-pane {
+    padding-top: 20px;
+}
+
+.berg_home-content-right {
+    max-width: 350px;
+    width: 50%;
+    margin-right: 20px;
+    text-align: center;
+    color: #999999;
+}
+
+.berg_home-content-left {
+    width: 45%;
+    max-width: 480px;
+}
+
+.berg_home-image {
+    max-width: 400px;
+    width: 95%;
+    margin-right: 20px;
+    margin-top: 20px;
+    border: solid;
+    border-color: #f6f6f6;
+    border-radius: 8px;
+    border-width: 10px;
+}
+
+.berg_content-title {
+    font-size: 1.75rem;
+    text-align: center;
+}
+
+.berg_content-subtitle {
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.berg_text-team-name {
+    color: #12437D;
+    font-family: 'AvenirNext-Bold';
+}
+
+.berg_indent-block {
+    margin: 20px 10%;
+}
+
+.berg_image-caption {
+    padding: 10px 0;
+    background-color: #f6f6f6;
+    text-align: center;
+}
+
+.berg_carousel-caption {
+    padding-bottom: 15px;
+    text-align: center;
+    margin: 0 auto;
+    width: 600px;
+}
+
+.berg_image-container {
+    border: solid;
+    border-color: #f6f6f6;
+    border-radius: 8px;
+    border-width: 5px;
+    margin-bottom: 100px;
+}
+
+.berg_image-bottom-weight {
+    border-bottom-width: 35px;
+}
+
+.berg_rounded_8 {
+    border-radius: 8;
+}
+
+.berg_carousel-image {
+    width: 700px;
+}
+
+
+.berg_citation-pdf-tag {  
+    padding-left:10px;
+    display: inline-block;
+    font-size: 75%; 
+} 
+
+.berg_citation-wrapper{
+
+}
+
+.berg_align-center {
+    text-align: center;
+}
+
+.berg_citation-text{
+    text-decoration: none;
+    color: black;
+    font-size: .75rem;
+
+}
+
+.berg_citation-hover:hover {
+    background-color: #f6f6f6;
+}
+
+.berg_team-tumbnail {
+    border-width: 10px 5px 30px 5px;
+    height: 250px;
+}
+
+.berg_team-container {
+    text-align: center;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.berg_team-row {
+
+}
+
+.berg_prof-thumbnail {
+    height: 400px;
+}
+
+.info .berg_content-subtitle {
+    text-align: left;
+}
+
+.info .berg_content-status{
+    text-align: left;
+    font-size: 1rem;
+}
+
+.berg_weblink {
+    padding: 15px 0;
+}
+
+.berg_weblink .text {
+    text-align: left;
+}
+
+.berg_gallery-segment {
+        font-size: 1.5rem;
+
+}
+
+.berg_gallery-section {
+        font-size: 1.5rem;
+}
+
+.berg_gallery-subsection {
+    text-align: center;
+    font-size: 1rem;
+}
+
+.berg_gallery-image {
+    width: 30%;
+    max-width: 275px;
+    height: 30%;
+    max-height: 168px;
+    border-radius: 10% 20% 10% 20%;
+    padding-left: 3px;
+    padding-bottom: 7px;
+    margin: 7px;
+    background-color: #e6e6e6;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+}
+
+.berg_gallery-image:hover {
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.2);
+}

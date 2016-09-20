@@ -1,0 +1,178 @@
+/**
+ * Description: Style Sheets for navigation and 
+ * footer elements.
+ *
+ * @author    Elizabeth Kukla <elizabeth.kukla@gmail.com>
+ * @date      03.09.16
+ * @copyright All rights reserved.
+ */
+
+/**
+ *  header and navigation css
+ */
+.berg_page-header{
+    padding-top: 114px;
+    padding-bottom: 50px;
+    color: #EEEEEE;
+    text-align: center;
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);    
+}
+
+.berg_max-width-800 {
+    width: 840px;
+    margin: 0 auto;
+}
+
+.berg_background-blue{
+    background-color: #12437D; 
+    color: black;
+    text-decoration: none;
+}
+
+.berg_background-light-blue{
+    background-color: #3D6EA9; 
+    color: white;
+    text-decoration: none;
+}
+
+.berg_background-white{
+    background-color: white; 
+    text-decoration: none;
+    font-family: 'AvenirNext-Regular';
+}
+
+.berg_nav-list {
+    list-style: none;
+    font-size: .75rem;
+    margin: 0px;
+    padding-left: 0px;
+}
+
+.berg_nav-list-item {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+.berg_nav-list-item:hover {
+    color: #104584;
+}
+
+.berg_nav-list-divider {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 40px;
+    font-family: 'AvenirNext-Bold';
+    font-size: .80rem;
+    background-color: rgba(0,0,0,0.1);
+}
+
+.berg_nav-list-item:hover {
+    background-color: white;
+}
+
+.berg_nav-dropdown {
+    width: 200px;
+    top: 54px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);    
+    padding-top: 10px;
+    padding-bottom: 15px;
+    position: fixed;
+    z-index: 10;
+
+}
+
+.berg_hide {
+    display: none;
+}
+
+.berg_navbar {
+    /*z-index so nav bar is layered over team bio popups */
+    z-index: 10; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);    
+}
+
+.berg_padding-left {
+    margin-left: 10%;
+}
+
+.berg_navbar_collapse {
+    
+}
+
+.berg_nav_button_basic {
+    background-color: #3D6EA9;
+}
+
+.berg_nav_button_basic:hover {
+    background-color: #104584;
+}
+
+.berg_text-white {
+    font-family: 'AvenirNext-Regular';
+    color: white;
+    text-decoration: none;
+}
+
+.berg_text-footer {
+  font-size: .75rem;
+}
+
+.berg_text-blue {
+    font-family: 'AvenirNext-Regular';
+    color: #245B9C;
+    text-decoration: none;
+}
+
+.berg_text-black {
+    font-family: 'AvenirNext-Regular';
+    color: black;
+    text-decoration: none;
+}
+
+.berg_text-white:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.berg_hidden {
+    display: none;
+}
+
+.berg_menu-icon {
+    height: 20px;
+    padding: 15px;
+}
+
+.berg_menu-icon:hover {
+    background-color: rgba(0,0,0,0.3);
+}
+
+.berg_page-footer{
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: rgba(0,0,0,0.1);
+    padding-top: 20px;
+    padding-bottom: 30px;
+    color: rgba(0,0,0,0.4);
+    text-align: center;
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);    
+}
+
+.berg_footer-content-center {
+  overflow:hidden;
+  display: inline-table;
+  zoom:1;
+}
+
+.berg_footer-logos {
+  max-height: 100px;
+  height: 50%;
+  padding: 0 10%;
+}

@@ -1,0 +1,33 @@
+.size { 
+    position:relative;
+}
+
+.size .field {
+    padding:10px; 
+    border:none; 
+    cursor:pointer;
+    font-size:.75em;
+    border:solid 2px #e6e6e6;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+.size .field:hover {
+    border:solid 2px #fff;
+    -moz-box-shadow:0 0 7px #999;
+    -webkit-box-shadow:0 0 7px #999; 
+    box-shadow:0 0 7px #999;
+}
+.size>div.info { display:none;
+    position:absolute; 
+    text-align: left;
+    z-index: 5;
+    left:0px; 
+    top:0px; 
+    width:500px;
+    margin:0; 
+    padding:10px; 
+    background:#fff; 
+    color:#333;
+    -moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px;
+    -moz-box-shadow:0 0 5px #999; -webkit-box-shadow:0 0 5px #999; box-shadow:0 0 5px #999
+}
