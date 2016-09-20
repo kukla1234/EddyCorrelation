@@ -9,7 +9,7 @@
 
 <nav class='berg_background-blue berg_max-width-800 berg_navbar'>
   <div class='berg_padding-left'>
-    <img src="img/menu_icon.png" alt="Menu" class="berg_menu-icon" id="berg_menu-icon">
+    <img src="/berg/img/menu_icon.png" alt="Menu" class="berg_menu-icon" id="berg_menu-icon">
   </div>
 </nav>
 
@@ -25,10 +25,10 @@
 
     <li class='berg_nav-list-divider'>Examples</li>
 
-    <a class='berg_text-white' href="/berg/example-gulf/"><li class='berg_nav-list-item'>Gulf of Mexico</li></a>
-    <a class='berg_text-white' href="/berg/example-fl-reef/"><li class='berg_nav-list-item'>Florida Reef</li></a>
-    <a class='berg_text-white' href="/berg/example-fl-sediments/"><li class='berg_nav-list-item'>Florida Sediments</li ></a>
-    <a class='berg_text-white' href="/berg/example-va-seagrass/"><li class='berg_nav-list-item'>Virginia Seagrass</li></a>
+    <a class='berg_text-white' href="/berg/example1/"><li class='berg_nav-list-item'>Gulf of Mexico</li></a>
+    <a class='berg_text-white' href="/berg/example2/"><li class='berg_nav-list-item'>Florida Reef</li></a>
+    <a class='berg_text-white' href="/berg/example3/"><li class='berg_nav-list-item'>Florida Sediments</li ></a>
+    <a class='berg_text-white' href="/berg/example4/"><li class='berg_nav-list-item'>Virginia Seagrass</li></a>
   </ul>
 </div>
 
@@ -36,7 +36,7 @@
   <h1 class='berg_text-white'>Aquatic Eddy Covariance Research Lab</h2>
   <h2 class='berg_text-white'>at University of Virginia</h3>
 </div>
-  <script src="js/jquery-3.1.0.js" type="text/javascript"></script>
+  <script src="/berg/js/jquery-3.1.0.js" type="text/javascript"></script>
   <script type="text/javascript">
      $('#berg_menu-icon').click(function() {
       $('#menu-dropdown').toggleClass('berg_hide');

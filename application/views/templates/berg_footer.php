@@ -8,7 +8,7 @@
  -->
 <div class='footer'>
     <div class="berg_page-footer berg_background-white berg_text-footer" >
-        <img src="img/support/uvastack.gif" alt="UVa logo" class="berg_float-left berg_footer-logos">
+        <img src="/berg/img/support/uvastack.gif" alt="UVa logo" class="berg_float-left berg_footer-logos">
         <div class='berg_footer-content-center'>
             <p>
                 Peter Berg
@@ -30,13 +30,12 @@
                 phone: 434-924-1318
             </p>
         </div>
-        <img src="img/support/nsf1.gif" alt="NSF logo" class="berg_float-right berg_footer-logos">
+        <img src="/berg/img/support/nsf1.gif" alt="NSF logo" class="berg_float-right berg_footer-logos">
 
         <div class='berg_clear-floats'></div>
     </div>
-    <script src="js/jquery-3.1.0.js" type="text/javascript"></script>
-    <script src="js/flickity.pkgd.js" type="text/javascript"></script>
-    <script src="js/berg_popup.js" type="text/javascript"></script>
+    <script src="/berg/js/flickity.pkgd.js" type="text/javascript"></script>
+    <script src="/berg/js/berg_popup.js" type="text/javascript"></script>
 </div>
 
 </body>
