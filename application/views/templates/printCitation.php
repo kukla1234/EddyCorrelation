@@ -11,7 +11,7 @@
 				echo "";
 			echo str_replace(" ","%20",$filename) . " >";
 		}
-		if ($path != "web")
+		if ($path == "eddy" || $path == "modeling")
 			echo "<span class=\"pdf-tag\">[PDF]</span>";
 		else if ($path == "web")
 			echo "<span class=\"pdf-tag\">[WEBLINK]</span>";
