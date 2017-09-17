@@ -7,10 +7,14 @@
 				echo "journals/modeling/";
 			else if ($path == "eddy")
 				echo "journals/";
+			else if ($path == "web")
+				echo "";
 			echo str_replace(" ","%20",$filename) . " >";
 		}
-		if ($path)
+		if ($path != "web")
 			echo "<span class=\"pdf-tag\">[PDF]</span>";
+		else if ($path == "web")
+			echo "<span class=\"pdf-tag\">[WEBLINK]</span>";
 		echo "<br/>";
 		echo "<span class=\"citation\">";
 		echo $txt;

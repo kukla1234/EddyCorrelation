@@ -19,31 +19,24 @@
 						<h3>Publications on Eddy Covariance</h3>
 						<?php
 						$this->view("templates/printCitation");
-
-						printCitation("Chipman, L., <b>P. Berg</b>, M. Huettel. (Submitted). Benthic oxygen fluxes measured by eddy covariance
-
-in permeable Gulf of Mexico shallow-water sands. <b>Aquatic Geochemistry</b>.");
+						// printCitation("");
+						printCitation("<b>Volaric, M., P. Berg</b>, M. A. Reidenbach. (In review). Oxygen metabolism of intertidal oyster reefs measured by aquatic eddy covariance. <b>Marine Ecology Progress Series</b>.");
 						
-						printCitation("Glud. R. N., <b>P. Berg</b>, H. Stahl, A. Hume, M. Larsen, B. D. Eyre, P. L. M. Cook. (Submitted).
+						printCitation("<b>Berg, P.</b>, M. L. Pace. (2017). Continuous measurement of air-water gas exchange by underwater eddy covariance. <b>Biogeosciences Discuss</b>. https://doi.org/10.5194/bg-2017-340.", "eddy", "Berg and Pace 2017 BGD.pdf");
 
-Benthic carbon mineralization and nutrient turn-over in a Scottish sea loch: An integrative in situ
+						printCitation("<b>Berg, P., M. L. Delgard</b>, R. N. Glud, M. Huettel, C. E. Reimers, M. L. Pace. (2017). Non-invasive Flux Measurements at the Benthic Interface: the Aquatic Eddy Covariance Technique. <b>Limnology and Oceanography: e-Lectures</b>. DOI: 10.1002/loe2.10005.", "eddy", "Berg et al 2017 LandO e-Lectures.pdf");
+						
+						printCitation("<b>Limnology and Oceanography: e-Lectures</b>. Full PowerPoint presentation with live animations, lecture notes, and reading lists.", "web", "http://onlinelibrary.wiley.com/doi/10.1002/loe2.10005/full");
 
-study. <b>Aquatic Geochemistry</b>.");
+						printCitation("Chipman, L., <b>P. Berg</b>, M. Huettel. (Submitted). Benthic oxygen fluxes measured by eddy covariance in permeable Gulf of Mexico shallow-water sands. <b>Aquatic Geochemistry</b>. 22: 529-554.", "eddy", "Chipman et al 2016 Aquat Geochem.pdf");
+						
+						printCitation("Glud. R. N., <b>P. Berg</b>, H. Stahl, A. Hume, M. Larsen, B. D. Eyre, P. L. M. Cook. (Submitted). Benthic carbon mineralization and nutrient turn-over in a Scottish sea loch: An integrative in situ study. <b>Aquatic Geochemistry</b>. 22: 443 – 467.", "eddy", "Glud et al 2016 Aquat Geochem.pdf");
 
-						printCitation("<b>Berg, P.</b>, D. Koopmans, M. Huettel, H. Li, K. Mori, A. Wüest. (2016). A new robust dual oxygen-
+						printCitation("<b>Berg, P.</b>, D. Koopmans, M. Huettel, H. Li, K. Mori, A. Wüest. (2016). A new robust dual oxygen-temperature sensor for eddy correlation measurements. <b>Limnology and Oceanography: Methods</b>. 14: 151–167.", "eddy","Berg et al 2016 L&OM.pdf");
 
-temperature sensor for eddy correlation measurements. <b>Limnology and Oceanography:
+						printCitation("Reimers, C. E., T. Özkan-Haller, A. Albright, <b>P. Berg</b>. (2016). Microelectrode Velocity Effects and Aquatic Eddy Correlation Measurements under Waves. <b>Journal of Atmospheric and Oceanic Technology</b>. DOI: 10.1175/JTECH-D- 15-0041.1.","eddy","Reimers et al 2016 JTECH.pdf");
 
-Methods</b>. 14: 151–167.", "eddy","Berg et al 2016 L&OM.pdf");
-
-						printCitation("Reimers, C. E., T. Özkan-Haller, A. Albright, <b>P. Berg</b>. (2016). Microelectrode Velocity Effects and
-
-Aquatic Eddy Correlation Measurements under Waves. <b>Journal of Atmospheric and Oceanic
-
-Technology</b>. DOI: 10.1175/JTECH-D- 15-0041.1.","eddy","Reimers et al 2016 JTECH.pdf");
-
-                        printCitation("<b>Berg, P.</b>, C. E. Reimers, J. Rosman, T. Özkan-Haller, M. Huettel, <b>M. L. Delgard</b>. (2015). Technical Note:ime lag correction of aquatic eddy covariance data measured in the presence of waves.
-<b>Biogeosciences Discuss.</b> 12: 8395–8427. doi: 10.5194/bgd-12-8395-2015.","eddy", "Berg et al 2015 BGD.pdf");
+                        printCitation("<b>Berg, P.</b>, C. E. Reimers, J. Rosman, T. Özkan-Haller, M. Huettel, <b>M. L. Delgard</b>. (2015). Technical Note:ime lag correction of aquatic eddy covariance data measured in the presence of waves. <b>Biogeosciences Discuss.</b> 12: 8395–8427. doi: 10.5194/bgd-12-8395-2015.","eddy", "Berg et al 2015 BGD.pdf");
                         
                         printCitation("Long, M.H., <b>P. Berg</b> J. L. Falter. (2015). Seagrass Metabolism across a Productivity Gradient using the Eddy Correlation, Eulerian Control Volume, and Biomass Addition Techniques. <b>J. Geophys. Res.: Oceans.</b> 120: doi: 10.1002/2014JC010352.","eddy","Long et al 2015 Journal of Geophysical Research Oceans.pdf");
 
