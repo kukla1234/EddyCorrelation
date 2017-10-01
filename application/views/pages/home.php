@@ -36,6 +36,29 @@
 										</li>
 									</ol>
 								</p>
+
+								<p>
+								The aquatic eddy covariance technique was adapted from the atmospheric boundary layer to measure fluxes of oxygen in benthic environments in a joint effort with the <a href="http://www.mpi-bremen.de/en/">Max Planck Institute for Marine Microbiology, Germany</a>. Our first proof of concept paper was published in 2003 (Berg et al. 2003). 
+								</p>
+
+								<p>
+									Since then an increasing number of research groups have adopted the approach because of the unique advantages of the technique over traditional flux methods: 
+								</p>
+								<ol>
+									<li>
+										Measurements can be made without disturbing the natural light and flow conditions.
+									</li>
+									<li>
+										Fluxes represent a large area on the benthic surface (many square-meters) and have a high temporal resolution (minutes). 
+									</li>
+									<li>
+										The technique can be applied in environments where traditional enclosure methods are difficult to use (e.g., highly permeable sediments, seagrass meadows, and coral and oyster reefs).
+									</li>
+								</ol>
+
+								<p>
+									Recently, we have also applied the technique for ‘upside down’ measurements right below the air-water interface to give gas exchange rates and coefficients. 
+								</p>
 							</div> 
 							
 							
@@ -59,31 +82,7 @@
 						</div>
 					</div>
 					<div class="row-fluid">
-						<div class="row-fluid explanation">
-							<p>
-								The aquatic eddy covariance technique was adapted from the atmospheric boundary layer to measure fluxes of oxygen in benthic environments in a joint effort with the <a href="http://www.mpi-bremen.de/en/">Max Planck Institute for Marine Microbiology, Germany</a>. Our first proof of concept paper was published in 2003 (Berg et al. 2003). 
-							</p>
-						</div> 
-						<div class="row-fluid explanation">
-								<p>
-									Since then an increasing number of research groups have adopted the approach because of the unique advantages of the technique over traditional flux methods: 
-								</p>
-								<ol>
-									<li>
-										Measurements can be made without disturbing the natural light and flow conditions.
-									</li>
-									<li>
-										Fluxes represent a large area on the benthic surface (many square-meters) and have a high temporal resolution (minutes). 
-									</li>
-									<li>
-										The technique can be applied in environments where traditional enclosure methods are difficult to use (e.g., highly permeable sediments, seagrass meadows, and coral and oyster reefs).
-									</li>
-								</ol>
-
-								<p>
-									Recently, we have also applied the technique for ‘upside down’ measurements right below the air-water interface to give gas exchange rates and coefficients. 
-								</p>	
-							</div>
+					
 					
 							<div class="row-fluid explanation">
 								<p>
