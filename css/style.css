@@ -13,10 +13,12 @@ div.tempbox {
 }
 
 div.wrapper {
-	margin: 3% 6% 3% 6%;
+	margin: 0% auto 3% auto;
 	padding-bottom: 2%;
 	background-color: #EEEEEE;
 	box-shadow: 1px 2px 15px;
+	width: 90vw;
+	max-width: 1000px;
 }
 
 div.wrapper-header {
@@ -52,10 +54,37 @@ b.nav-inner:hover {
 	color: #141414; 
 }
 
+h2.main-page-header {
+	margin-top: 0px;
+}
+
+img.sponsor-images {
+	max-width: 150px;
+	max-height: 100px;
+}
+
+div.home_new_papers {
+	border-style: solid;
+	border-color: #1E2B34;
+	border-width: 5px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+
+}
+
+.weblink_pair_bottom {
+	padding-top: 0px;
+}
+
+.weblink_pair_top {
+	padding-bottom: 0px;
+}
+
 /**
  * 	Page Header
  */
 .page-header{
+	height: 90px;
 	padding-bottom:20px;
 	padding-top: 20px;
 	color: #EEEEEE;

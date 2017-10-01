@@ -24,13 +24,15 @@
 						
 						printCitation("<b>Berg, P.</b>, M. L. Pace. (2017). Continuous measurement of air-water gas exchange by underwater eddy covariance. <b>Biogeosciences Discuss</b>. https://doi.org/10.5194/bg-2017-340.", "eddy", "Berg and Pace 2017 BGD.pdf");
 
-						printCitation("<b>Berg, P., M. L. Delgard</b>, R. N. Glud, M. Huettel, C. E. Reimers, M. L. Pace. (2017). Non-invasive Flux Measurements at the Benthic Interface: the Aquatic Eddy Covariance Technique. <b>Limnology and Oceanography: e-Lectures</b>. DOI: 10.1002/loe2.10005.", "eddy", "Berg et al 2017 LandO e-Lectures.pdf");
-						
-						printCitation("<b>Limnology and Oceanography: e-Lectures</b>. Full PowerPoint presentation with live animations, lecture notes, and reading lists.", "web", "http://onlinelibrary.wiley.com/doi/10.1002/loe2.10005/full");
+						?>
+						<p style="padding-bottom: 0px; margin-bottom: 0px;" class="weblink_pair_top publication"><a target="_blank" href="journals/Berg%20et%20al%202017%20LandO%20e-Lectures.pdf"><span class="pdf-tag">[PDF]</span><br><span class="citation"><b>Berg, P., M. L. Delgard</b>, R. N. Glud, M. Huettel, C. E. Reimers, M. L. Pace. (2017). Non-invasive Flux Measurements at the Benthic Interface: the Aquatic Eddy Covariance Technique. <b>Limnology and Oceanography: e-Lectures</b>. DOI: 10.1002/loe2.10005.</span></a></p>
+						<p style="padding-top: 0px;" class="publication weblink_pair_bottom"><a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1002/loe2.10005/full"><span class="pdf-tag">[WEBLINK]</span><br><span class="citation"><b>Limnology and Oceanography: e-Lectures</b>. Full PowerPoint presentation with live animations, lecture notes, and reading lists.</span></a></p>
 
-						printCitation("Chipman, L., <b>P. Berg</b>, M. Huettel. (Submitted). Benthic oxygen fluxes measured by eddy covariance in permeable Gulf of Mexico shallow-water sands. <b>Aquatic Geochemistry</b>. 22: 529-554.", "eddy", "Chipman et al 2016 Aquat Geochem.pdf");
+<?php
+
+						printCitation("Chipman, L., <b>P. Berg</b>, M. Huettel. (2016). Benthic oxygen fluxes measured by eddy covariance in permeable Gulf of Mexico shallow-water sands. <b>Aquatic Geochemistry</b>. 22: 529-554.", "eddy", "Chipman et al 2016 Aquat Geochem.pdf");
 						
-						printCitation("Glud. R. N., <b>P. Berg</b>, H. Stahl, A. Hume, M. Larsen, B. D. Eyre, P. L. M. Cook. (Submitted). Benthic carbon mineralization and nutrient turn-over in a Scottish sea loch: An integrative in situ study. <b>Aquatic Geochemistry</b>. 22: 443 – 467.", "eddy", "Glud et al 2016 Aquat Geochem.pdf");
+						printCitation("Glud. R. N., <b>P. Berg</b>, H. Stahl, A. Hume, M. Larsen, B. D. Eyre, P. L. M. Cook. (2016). Benthic carbon mineralization and nutrient turn-over in a Scottish sea loch: An integrative in situ study. <b>Aquatic Geochemistry</b>. 22: 443 – 467.", "eddy", "Glud et al 2016 Aquat Geochem.pdf");
 
 						printCitation("<b>Berg, P.</b>, D. Koopmans, M. Huettel, H. Li, K. Mori, A. Wüest. (2016). A new robust dual oxygen-temperature sensor for eddy correlation measurements. <b>Limnology and Oceanography: Methods</b>. 14: 151–167.", "eddy","Berg et al 2016 L&OM.pdf");
 
