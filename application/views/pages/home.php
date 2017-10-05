@@ -14,7 +14,7 @@
 					<div class="row-fluid">
 						<div class="span7">
 							<div class="row-fluid explanation home_new_papers">
-								<h3>New papers:</h3>
+								<h3>News</h3>
 
 								<ol>
 									<li>A review of the aquatic eddy covariance technique published in L&O e-Lectures. Get a pdf <a href="journals/Berg%20et%20al%202017%20LandO%20e-Lectures.pdf">here</a>, or download the full PowerPoint presentation with live animations, lecture notes, and reading lists from <a href="http://onlinelibrary.wiley.com/doi/10.1002/loe2.10005/full">L&O e-Lectures</a>.</li>
@@ -38,7 +38,7 @@
 								</p>
 
 								<p>
-								The aquatic eddy covariance technique was adapted from the atmospheric boundary layer to measure fluxes of oxygen in benthic environments in a joint effort with the <a href="http://www.mpi-bremen.de/en/">Max Planck Institute for Marine Microbiology, Germany</a>. Our first proof of concept paper was published in 2003 (Berg et al. 2003). 
+								The aquatic eddy covariance technique was adapted from the atmospheric boundary layer to measure fluxes of oxygen in benthic environments in a joint effort with the Max Planck Institute for Marine Microbiology, Germany. Our first proof of concept paper was published in 2003 <a href="/berg/publications">(Berg et al. 2003)</a>. 
 								</p>
 
 								<p>
@@ -67,16 +67,16 @@
 						</div>
 						<div class="span5">
 							<div class="display-image">
+								<img src="img/slides/homepage_3.png" alt="eddy correlation 3">
+							</div>
+							<div class="display-image">
 								<img src="img/slides/tn_IMG_0670modified2.jpg" alt="eddy correlation 1">
 							</div>
 							<div class="display-image">
 								<img src="img/slides/tn_IMG_0697modified3.jpg" alt="eddy correlation 2">
 							</div>
-							<div class="display-image">
-								<img src="img/slides/homepage_3.png" alt="eddy correlation 3">
-							</div>
 							<blockquote>
-								photos by Markus Huettel
+								photos by Markus Huettel &amp; Peter Berg
 							</blockquote>
 
 						</div>
