@@ -18,25 +18,27 @@
 
 								<ol>
 									<li>A review of the aquatic eddy covariance technique published in L&O e-Lectures. Get a pdf <a href="journals/Berg%20et%20al%202017%20LandO%20e-Lectures.pdf">here</a>, or download the full PowerPoint presentation with live animations, lecture notes, and reading lists from <a href="http://onlinelibrary.wiley.com/doi/10.1002/loe2.10005/full">L&O e-Lectures</a>.</li>
-									<li>New paper on ‘upside’ down eddy covariance measurements right below the air-water interface of gas exchange rates and coefficients. Get a pdf <a href="journals/Berg%20and%20Pace%202017%20BGD.pdf">here</a>.</li>
+									<li>New paper on ‘upside’ down eddy covariance measurements right below the air-water interface of gas exchange rates and coefficients (photo on right). Get a pdf <a href="journals/Berg%20and%20Pace%202017%20BGD.pdf">here</a>.</li>
 								</ol>
 							</div>
 
 							<div class="row-fluid explanation">
 								<p>
 									Welcome to the Aquatic Eddy Covariance Research Lab at the University of Virginia. Our work is centered on underwater flux measurements using the aquatic eddy covariance (or eddy correlation) technique. We focus on three main areas: 
-									<ol>
-										<li>
-											In situ applications of the technique to address research questions on carbon and nutrient cycling. 										</li>
-										<li>
-											 Development of new sensors and flux calculation protocols to advance the technique. 
-										</li>
-										<li>
-											Training and education.
-										</li>
-									</ol>
+									
 								</p>
-
+								<ol>
+									<li>
+										In situ applications of the technique to address research questions on carbon and nutrient cycling. 										
+									</li>
+									<li>
+										 Development of new sensors and flux calculation protocols to advance the technique. 
+									</li>
+									<li>
+										Training and education.
+									</li>
+								</ol>
+								
 								<p>
 								The aquatic eddy covariance technique was adapted from the atmospheric boundary layer to measure fluxes of oxygen in benthic environments in a joint effort with the Max Planck Institute for Marine Microbiology, Germany. Our first proof of concept paper was published in 2003 <a href="/berg/publications">(Berg et al. 2003)</a>. 
 								</p>

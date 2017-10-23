@@ -56,7 +56,7 @@
 								Research Professor <br/> 
 							</p>
 							<div class="profile-single">
-								<a href="img/people/PeterBerg2.jpg" rel="lightbox" target="_blank"><img src="img/people/PeterBerg2-thumb.jpg" alt="Peter Berg Profile"></a>
+								<a href="img/people/PeterBerg2.jpg" rel="lightbox" target="_blank"><img src="img/people/Peter_Berg_3.jpg" alt="Peter Berg Profile"></a>
 							</div>
 						</div>
 					</div>
