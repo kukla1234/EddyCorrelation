@@ -296,16 +296,14 @@
 							<div class="span8 bio-left">
 								<div class="bio-text blurb">
 									<p>
-										Ben: I am a 1st year Master's student in Computer Science with interests in algorithms, cryptography, 
-										and web application development.
+										Ben: UVA BS 2014, MS 2015. Former webmaster. Current location: UCSB. 
 									</p>
-									<p>	Elizabeth: I am a 3rd year undergraduate studying Computer Science with interests in web applications 
-										and entrepreneurship. 
+									<p>	Elizabeth: UVA BS 2016. Working in Software Engineering as a full-stack engineer.  
 									</p>
 								</div>
 							</div>
 							<div class="span4 bio-right">
-								<h4>Ben Terner & Elizabeth Kukla</h4> <span class="descriptor">Undergraduate, Webmasters</span>
+								<h4>Ben Terner & Elizabeth Kukla</h4> <span class="descriptor">Webmasters</span>
 								<p>
 									<a href="img/people/BenTerner.jpg" rel="lightbox" target="_blank"><img src="img/people/BenTerner_thumb.jpg" alt="Ben Terner thumb"></a>
 									<a href="img/people/ElizabethKukla.jpg" rel="lightbox" target="_blank"><img src="img/people/ElizabethKukla_thumb.jpg" alt="Elizabeth Kukla thumb"></a>
