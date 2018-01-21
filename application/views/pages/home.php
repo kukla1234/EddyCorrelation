@@ -17,10 +17,12 @@
 								<h3>News</h3>
 
 								<ol>
+									<li>Aquatic eddy covariance work on seagrass meadows featured in UVA video on coastal resilience. See it <a href="http://illimitable.virginia.edu/askmore/coastal-resilience/" target="_blank">here</a></li>
 									<li>A review of the aquatic eddy covariance technique published in L&O e-Lectures. Get a pdf <a href="journals/Berg%20et%20al%202017%20LandO%20e-Lectures.pdf">here</a>, or download the full PowerPoint presentation with live animations, lecture notes, and reading lists from <a href="http://onlinelibrary.wiley.com/doi/10.1002/loe2.10005/full">L&O e-Lectures</a>.</li>
-									<li>New paper on ‘upside’ down eddy covariance measurements right below the air-water interface of gas exchange rates and coefficients (photo on right). Get a pdf <a href="journals/Berg%20and%20Pace%202017%20BGD.pdf">here</a>.</li>
+									<li>New paper on ‘upside’ down eddy covariance measurements right below the air-water interface of gas exchange (photo on right). Get a pdf <a href="https://www.biogeosciences.net/14/5595/2017/" target="_blank">here</a>.</li>
 								</ol>
 							</div>
+							<!-- <iframe width="100%" height="300px" src="https://www.youtube.com/embed/zPWet_mgNn0?rel=0" frameborder="0" allow=" encrypted-media" allowfullscreen></iframe> -->
 
 							<div class="row-fluid explanation">
 								<p>
