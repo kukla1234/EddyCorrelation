@@ -20,8 +20,15 @@
 						<?php
 						$this->view("templates/printCitation");
 						// printCitation("");
-						printCitation("<b>Volaric, M., P. Berg</b>, M. A. Reidenbach. (In review). Oxygen metabolism of intertidal oyster reefs measured by aquatic eddy covariance. <b>Marine Ecology Progress Series</b>.");
+						printCitation("Merikhi, A., <b>P. Berg</b>, V. Meyer, M. Huettel. (In Press). Determination of response times of scalar sensors used in liquids and gases. <b>Limnology and Oceanography: Methods</b>.");
+
+						printCitation("Attard K. M., I. F. Ródil, <b>P. Berg</b>, J. Norkko, A. Norkko, R. N. Glud. (In Press) Seasonal metabolism and carbon export potential of a perennial macroalgal canopy (Fucus vesiculosus): A case study from the Baltic Sea. <b>Limnology and Oceanography</b>.");
 						
+						printCitation("<b>Volaric, M., P. Berg</b>, M. A. Reidenbach. (In Press). Oxygen metabolism of intertidal oyster reefs measured by aquatic eddy covariance. <b>Marine Ecology Progress Series</b>.");
+						
+
+						printCitation("<b>Berg, P.</b>, M. L. Pace. (2017). Continuous measurement of air–water gas exchange by underwater eddy covariance. <b>Biogeosciences</b>. 14, 5595–5606.", "eddy", "Berg and Pace 2017 Biogeosciences.pdf");
+
 						printCitation("<b>Berg, P.</b>, M. L. Pace. (2017). Continuous measurement of air-water gas exchange by underwater eddy covariance. <b>Biogeosciences Discuss</b>. https://doi.org/10.5194/bg-2017-340.", "eddy", "Berg and Pace 2017 BGD.pdf");
 
 						?>

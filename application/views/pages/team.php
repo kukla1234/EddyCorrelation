@@ -277,7 +277,7 @@
 										decided to apply my educational background to marine policy and conservation.
 									</p>
 									<p>
-										 Current location: World Wildlife Fund (WWF).
+										 Current location: Stanford University
 									</p>
 								</div>
 							</div>

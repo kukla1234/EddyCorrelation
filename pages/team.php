@@ -90,7 +90,7 @@
 										My graduate thesis research focused on biogeochemical cycling and hydrodynamics of recovering seagrass meadows on the Eastern Shore of Virginia. Specifically, Dr. Berg and I adapted the micrometeorological concept of eddy-correlation to measure fluctuations of dissolved oxygen in order to determine ecosystem metabolism dynamics of seagrasses. As a graduate research student for Dr. Berg, I was lucky to participate in multiple research cruises and field campaigns around the globe. After graduating from UVa, I accepted a research assistant position at the Scottish Association for Marine Science in Oban, Scotland where I set up an aquatic eddy-correlation lab. Upon moving back to the United States, I decided to apply my educational background to marine policy and conservation.
 									</p>
 									<p>
-										 Current location: World Wildlife Fund (WWF).
+										 Current location: Stanford University.
 									</p>
 								</div>
 							</div>

@@ -25,13 +25,10 @@
 							foreach(  array("http://myweb.fsu.edu/mhuettel/Projects/NSF_Eddy.html",
 											"http://www.mikenish.com/Research/Benthic_metabolism.html",
 											"http://phys.org/news/2015-05-scientists-high-tech-fragile-cold-water-reefs.html",
-											"http://www.whoi.edu/hpb/viewPage.do?id=136876&cl=1",
 											"http://www.oceannetworks.ca/microsquid-experiment",
 											"http://dfmcginnis.com/EddyCorrelation.html",
-											"https://www.nioz.nl/yes-en",
 											"http://www.mpi-bremen.de/en/Eddy_Correlation_System.html",
-											"http://hmsc.oregonstate.edu/research-labs/reimers-lab/current-research",
-											"http://www.scu.edu.au/coastal-biogeochemistry/index.php/49/")
+											"http://hmsc.oregonstate.edu/research-labs/reimers-lab/current-research")
 										as $link){
 											echo '<li>'.weblink($link).'</li>';
 									}
@@ -41,8 +38,9 @@
 					<ul>
 						<?php
 							foreach(  array("http://www.unisense.com/eddy_covariance_system",
+											"http://www.jfe-advantech.co.jp/eng/ocean/rinko/rinko-ec.html",
+											"https://www.presens.de/products/detail/eddy-covariance-oxygen-microsensor-eco-pst7.html",
 											"http://www.rocklandscientific.com/Products/EddyCorrelation/tabid/120/Default.aspx",
-											"http://pme.com/products/ct-sensor-nortek",
 											"http://www.nortek-as.com/en/products/velocimeters/vector",
 											"http://www.nortek-as.com/en/news/flux-measurements-by-eddy-correlation-in-benthic-environments-using-the-nortek-vector")
 										as $link){
