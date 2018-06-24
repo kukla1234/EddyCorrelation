@@ -16,7 +16,10 @@
 							print '<hr/>';
 							printGallerySegment("easternshore", "Eastern Shore, Virginia", array("smallfreshwaterstreams"=> "Small freshwater streams",
 																						"oysterbeds" => "Oyster beds",
-																						"seagrassbeds" => "Seagrass beds" ));
+																						"seagrassbeds" => "Seagrass beds",
+																						"gracilaria" => "Gracilaria" ));
+							printGallerySegment("virginiariver", "Virginia River", array("gasexchange"=> "Gas Exchange"));
+
 							print '<hr/>';
 							printGallerySegment("floridakeys","Florida Keys",array( "coralreefs" => "Coral reefs",
 																					"permeablesediments" => "Permeable sediments",
